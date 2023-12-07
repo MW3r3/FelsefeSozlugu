@@ -1417,7 +1417,7 @@
 
        
 
-        // Autocomplete function
+
         searchInput.addEventListener("input", function () {
             const searchTerm = searchInput.value.toLowerCase();
             suggestions = data.filter((item) => item.term.toLowerCase().includes(searchTerm));
@@ -1429,7 +1429,6 @@
             renderSuggestions();
         });
 
-        // Definition display function
         function showDefinition(term) {
             const definition = data.find((item) => item.term === term);
             if (definition) {
@@ -1440,7 +1439,7 @@
             }
         }
 
-        // Suggestion selection
+
         suggestionList.addEventListener("click", function (e) {
             const selectedTerm = e.target.textContent;
             searchInput.value = selectedTerm;
@@ -1448,16 +1447,15 @@
             suggestionList.innerHTML = ""; 
         });
 
-        // Get random term
         randomButton.addEventListener("click", function () {
             const randomIndex = Math.floor(Math.random() * data.length);
             const randomTerm = data[randomIndex];
             searchInput.value = randomTerm.term;
             showDefinition(randomTerm.term);
-            suggestionList.innerHTML = ""; // Hide suggestions
+            suggestionList.innerHTML = ""; 
         });
 
-        // Render suggestions list
+
         function renderSuggestions() {
             suggestionList.innerHTML = "";
             if (suggestions.length) {
