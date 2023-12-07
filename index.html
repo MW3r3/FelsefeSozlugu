@@ -26,7 +26,7 @@
             border: 1px solid #ddd;
             border-radius: 4px;
             padding: 5px;
-            width: 90%;
+            width: 98%;
         }
 
         #definition {
@@ -53,8 +53,8 @@
     </header>
     <main>
         <section id="search">
-            <input type="text" id="term" placeholder="Search for a word">
-            <button id="random-button">Get Random Word</button>
+            <input type="text" id="term" placeholder="Terim Ara">
+            <button id="random-button">Kendimi Şansı Hissediyorum</button>
             <ul id="suggestions"></ul>
         </section>
         <section id="definition">
@@ -1426,7 +1426,7 @@
                 definitionText.textContent = definition.desc;
                 document.getElementById("definition").style.display = "block";
             } else {
-                definitionText.textContent = "No definition found for this word.";
+                definitionText.textContent = "Terim Bulunamadı.";
             }
         }
 
