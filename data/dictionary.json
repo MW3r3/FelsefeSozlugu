@@ -1,0 +1,1342 @@
+[
+    {
+        "term": "varlık",
+        "desc": "Varlık, evrende var olan her şeyin genel adıdır. Varlık kavramı, bir şeyin gerçek ve varoluşsal bir nitelik taşımasını ifade eder. Varlık felsefede merkezi bir konumda yer alır ve temel bir anlam ifade eder."
+    },
+    {
+        "term": "yokluk",
+        "desc": "Yokluk, var olmamanın hali olarak tanımlanır. Hiçlik, varlık düşüncesi bulunmayan bir durumdur. Yokluk, varlığın olumsuzlanmasıdır."
+    },
+    {
+        "term": "olgu",
+        "desc": "Olgu, gerçeklik düzeyinde var olan ve somut olarak deneyimlenebilen fenomenlerin genel adıdır. Olgu, gözlem ve deneylerle doğrulanabilir ve nesnel bilgi sağlar. Felsefe alanında olgular, insan bilincinin, bilgi, gerçeklik ve varoluş gibi temel konularıyla ilgili olarak incelenir."
+    },
+    {
+        "term": "bilinç",
+        "desc": "Bilinç, insanın kendisini ve çevresini algılayabilme, düşünme, hissetme ve deneyimleme yeteneğidir. Bilincimiz sayesinde düşüncelerimizi kontrol edebilir, duygularımızı yaşayabilir ve bilinçli kararlar alabiliriz. Bilinç, insanın kendini tanıması ve dünya ile etkileşimde bulunması için hayati bir öneme sahiptir."
+    },
+    {
+        "term": "ahlak",
+        "desc": "Ahlak, insanların doğru ya da yanlış olarak kabul ettiği davranış standartlarını belirleyen bir disiplindir. Ahlak, etik kurallar ve değerler üzerine odaklanır ve bireylerin diğer insanlarla etkileşimlerinde doğru ve dürüst olmalarını teşvik eder. Ahlak, toplumun düzenini koruyarak insanların huzur ve mutluluğunu sağlamayı hedefler."
+    },
+    {
+        "term": "etik",
+        "desc": "Etik, doğru ve yanlış arasındaki ahlaki değerlendirmelerin yapıldığı bir felsefi disiplindir. İnsan davranışlarının doğruluğunu ve justifiye edilebilirliğini inceler. Ahlaki sorumluluk ve değerlerin temellerini araştırır."
+    },
+    {
+        "term": "metafizik",
+        "desc": "Metafizik, varlık, gerçeklik ve bilgi konularını ele alan felsefe dalıdır. Metafizik, evrenin temel yapısını, varlığın doğasını ve insanın yerini anlamaya çalışır. Metafizik, gerçeklikle ilgili temel soruları sorgular ve ardında yatan derin anlamları keşfetmeye çalışır."
+    },
+    {
+        "term": "ontoloji",
+        "desc": "Ontoloji, varlığın temel yapılarını ve gerçekliğin doğasını inceleyen felsefi disiplinlere verilen isimdir. Bu terim, varlık kavramının ne anlama geldiğini, varlığın nasıl sınıflandırıldığını ve varoluşun temel prensiplerini araştırır. Ontoloji, felsefede kavramlar ve varlıklar arasındaki ilişkileri anlamak için kullanılır."
+    },
+    {
+        "term": "epistemoloji",
+        "desc": "Epistemoloji, bilginin kaynaklarını, nasıl elde edildiğini ve doğru bilginin niteliğini inceleyen felsefe dalıdır. Bu disiplin, bilginin ne olduğunu, nasıl doğrulanabileceğini ve hangi yöntemlerle elde edilebileceğini araştırır. Epistemoloji, bilgi ve gerçeklik arasındaki ilişkiyi ve insanın bilgi edinme sürecini mercek altına alır."
+    },
+    {
+        "term": "mantık",
+        "desc": "Mantık, doğru düşünce yöntemlerini ve akıl yürütme kurallarını inceler. Mantık, bilgi ve argüman analizinde kullanılarak doğru sonuçlara ulaşmayı sağlar. Mantık, çelişkiden uzak, tutarlı ve geçerli akıl yürütme prensiplerini içerir."
+    },
+    {
+        "term": "akıl",
+        "desc": "Akıl, insanın düşünme, anlama ve problem çözme yetisi ile ilgili bir kavramdır. Akıl, insanın bilinçli olarak kararlar almasına, mantık yürütmesine ve bilgiye erişmesine olanak sağlar. Ayrıca, insanların duygusal deneyimleri anlamlandırmasına da yardımcı olur."
+    },
+    {
+        "term": "idealizm",
+        "desc": "Idealizm, gerçekliğin zihinsel ya da düşünsel olarak algılanabileceği inancını temsil eder. Bu görüşe göre, gerçeklik zihindeki kavramlarla inşa edilir ve dış dünya bağımsız olarak var olmaz. Idealizme göre, bilgi ve gerçeklik kavramları zihinde yaratılır."
+    },
+    {
+        "term": "materyalizm",
+        "desc": "Materyalizm, gerçekliği maddeden ve fiziksel varlıklardan oluştuğunu savunan felsefi bir görüştür. Her şeyin temelinde maddenin var olduğu ve onun etkilerinin belirleyici olduğu düşüncesi üzerine kuruludur. Ruhsal, zihinsel veya metafizik unsurları reddeder."
+    },
+    {
+        "term": "fenomenoloji",
+        "desc": "Fenomenoloji, insanın deneyimlerinin doğası ve içeriği üzerine odaklanan bir felsefi yaklaşımdır. Bu yaklaşım, deneyimleri doğrudan ve tarafsız bir şekilde ele alarak gerçekliği anlamaya çalışır. Fenomenoloji, nesnelerin nasıl algılandığını ve nasıl anlamlara sahip olduğunu anlamlandırmak için bilinçsel süreçlere odaklanır."
+    },
+    {
+        "term": "hermeneutik",
+        "desc": "Hermeneutik, metinleri ve sembolleri yorumlama sürecine odaklanan bir felsefe alanıdır. Bu yöntem, anlamı ve manayı anlamaya, bir metnin içerdiği derin anlamları keşfetmeye yardımcı olur. Hermeneutik, metinlerin ve sembollerin doğru anlaşılması için dilin yapısını, kültürel ve tarihsel bağlamı dikkate alır."
+    },
+    {
+        "term": "skepsis",
+        "desc": "Skepsis, şüphecilik anlamına gelir ve her türlü iddiaya karşı kuşku ve eleştirel bir yaklaşımı ifade eder. Skeptisizm, gerçeği ve bilgiyi kesin bir şekilde bilememe durumunu kabul eder ve sürekli sorgulama ve araştırmayı teşvik eder. Bu felsefi yaklaşım, insanların düşüncelerini ve inançlarını sorgulamalarını teşvik ederek bilgiyi geliştirme sürecini sağlar."
+    },
+    {
+        "term": "nihilizm",
+        "desc": "Nihilizm, varoluşçuluktan türeyen bir felsefi akımdır. Hiçlik teorisine dayanarak, her türlü değerin, anlamanın ve amaçların anlamsız olduğunu savunur. Nihilizm, genellikle hayatta hiçbir şeyin gerçek anlamının olmadığını öne sürer ve insanın varoluşunun anlamsız olduğunu iddia eder."
+    },
+    {
+        "term": "pragmatizm",
+        "desc": "Pragmatizm, bir düşünce akımıdır. Bu akıma göre gerçeklik, bir fikrin veya inancın faydalılığına dayanır. Pragmatistler, düşüncelerin pratik sonuçlarını değerlendirir ve bu sonuçlara göre doğruluk veya yanlışlık belirler. Bu görüşe göre, bir düşünce veya inanç ne kadar işe yararsa o kadar doğrudur."
+    },
+    {
+        "term": "realizm",
+        "desc": "Realizm, gerçekliği objektif bir şekilde ele alan bir felsefi görüştür. Realistler, objelerin ve olayların gerçekten var olduğunu ve bunların insan bilincinden bağımsız olduğunu savunurlar. Realizm, pozitif verilere dayanan bir anlayışı benimser ve duyusal gözlemlere dayanarak gerçekliği anlamaya çalışır."
+    },
+    {
+        "term": "solipsizm",
+        "desc": "Solipsizm, sadece kendi varlığının ve düşüncelerinin gerçek olduğunu savunan felsefi bir görüştür. Diğer insanların varlığını veya dış dünyanın gerçekliğini inkar eder. Bireyin düşünceleri ve deneyimleri, tek gerçeklik olarak kabul edilir."
+    },
+    {
+        "term": "sübjektif",
+        "desc": "'Sübjektif', bireysel deneyimler ve düşünceler tarafından etkilenen, kişisel bakış açısına dayanan bir konuyu ifade eden anlamına gelir. Nedensellik ve nesnellikten bağımsız olarak, kişisel yargı ve değerlendirmelere dayanan bir perspektif üzerinden olayları ele alır."
+    },
+    {
+        "term": "objektif",
+        "desc": "Objektif, bir şeyin gerçeklikle bağlantısını ifade eder. Bilgi ya da gerçeklerle ilgili olup, kişisel duygular ya da tercihlerden bağımsızdır. Objektif yaklaşım, tarafsızlık ve gerçeklik arayışına dayanır."
+    },
+    {
+        "term": "analitik",
+        "desc": "Analitik, felsefede düşüncelerin ve kavramların tanımlanması, ayrıştırılması ve analiz edilmesini vurgulayan bir yaklaşımdır. Analitik düşünce, mantığa dayalı bir şekilde sorunları çözme ve argümanları değerlendirme becerisini geliştirir. Bu yöntem, dilin ve mantığın kullanımını ön planda tutarak bilgiyi yapısına ve bölümlerine ayırarak üzerine kafa yormayı amaçlar."
+    },
+    {
+        "term": "rasyonalizm",
+        "desc": "Rasyonalizm, bilginin akıl ve mantık yoluyla elde edilebileceğini savunan bir felsefi yaklaşımdır. Deneyimden ziyade akla dayanır ve evrensel, değişmez ilkelerin bulunabileceğine inanır. Rasyonalizme göre gerçeklik, akıl yoluyla çözümlenebilen bir yapıya sahiptir."
+    },
+    {
+        "term": "empirizm",
+        "desc": "Empirizm, bilgi edinme sürecinde deneyime dayanan bir felsefi yaklaşımdır. Bu görüşe göre, bilgi duyular aracılığıyla deneyimlenen gerçeklikten elde edilir. Empiristler, bilginin doğruluğunu sadece deneyim ve gözlem yoluyla doğrulanan verilere dayandırır. Bu anlayış, bilimsel yöntem ve deneylere temel oluşturur."
+    },
+    {
+        "term": "pozitivizm",
+        "desc": "Pozitivizm, bilimsel yöntemin ve deneylere dayanan bilginin tek doğru bilgi olduğunu savunan bir felsefi akımdır. Gerçeklerin yalnızca gözlemlenebilir ve ölçülebilir olabileceğini savunan pozitivizm, metafiziksel ve spekülatif düşünceleri reddeder. Bilim ve mantığın, insanlık için en doğru ve güvenilir bilgi kaynağı olduğunu iddia eder."
+    },
+    {
+        "term": "postmodernizm",
+        "desc": "Postmodernizm, modernizm'in eleştirisini yaparak, gerçekliği sorgulayan bir felsefi akımdır. Objektif gerçekliğin yerine bağlamsal ve çoklu gerçeklikleri ön plana çıkarır. Meta-anlatılar, dilin oyunu ve metinlerin karmaşıklığı postmodernizmin temel özellikleridir."
+    },
+    {
+        "term": "determinizm",
+        "desc": "Determinizm, her olayın belirli nedenler sonucunda gerçekleştiğini ve geleceğin de bu nedenlerin sonucu olarak önceden belirlendiğini savunan felsefi bir görüştür. Deterministle göre insan iradesi yoktur ve tüm olaylar zorunlu olarak gerçekleşir. Buna göre her şey önceden belirlenmiştir, gelecek öngörülebilir ve değiştirilemez."
+    },
+    {
+        "term": "özgür irade",
+        "desc": "Özgür irade, bireyin kendi kararlarını bağımsızca ve etkilenmeden verme yeteneğidir. Bu kavram, insanların seçimlerini özgürce yapabilme ve sorumluluklarının farkında olma anlamını taşır. Özgür irade, insanın kendini yönetme ve özgürlük alanını sınırlayan etkilerden bağımsız olarak hareket etme gücünü ifade eder."
+    },
+    {
+        "term": "monizm",
+        "desc": "Monizm, gerçeklikte yalnızca bir tür varlık olduğunu savunan felsefi bir görüştür. Bu görüşe göre, dünya ve insanın varoluşu tek bir temel madde ya da ruhla açıklanabilir. Monizm, maddenin her şeyin temelinde olduğunu veya tüm varlıkların bir enerji ya da bilinçle izah edilebileceğini öne sürer."
+    },
+    {
+        "term": "dualizm",
+        "desc": "Dualizm, felsefede zihin ve bedenin farklı ve ayrı varlıklar olduğunu savunan bir görüştür. Bu görüşe göre, zihin düşünme, bilinçlenme gibi ruhsal faaliyetleri gerçekleştirirken, beden ise fiziksel hareketleri ve duyusal deneyimleri kontrol eder. Bu nedenle, dualizme göre insan varlığı hem maddi hem de manevi bir boyuttan oluşur."
+    },
+    {
+        "term": "pluralizm",
+        "desc": "Pluralizm, farklı düşüncelere ve değerlere sahip olan insanların bir arada var olabileceğini savunan bir felsefi yaklaşımdır. Bu yaklaşım, çeşitlilik ve çoğulculuk ilkesine dayanırken, farklılıkların bir zenginlik olarak kabul edilmesi gerektiğini vurgular. Pluralizm, toplumsal, kültürel ve politik alanlarda hoşgörü, diyalog ve uzlaşma gibi değerlere önem verir."
+    },
+    {
+        "term": "varoluşçuluk",
+        "desc": "Varoluşçuluk, insanın özgürlüğünü ve sorumluluğunu vurgulayan bir felsefi akımdır. İnsanın varoluşu, kendini tanımlaması ve anlam arayışı üzerinde odaklanır. Bireyin özgür iradesiyle kendini yaratması, anlamlı bir hayat sürdürebilmesi ve sorumluluk alması temel prensiplerindendir."
+    },
+    {
+        "term": "esansiyalizm",
+        "desc": "Esansiyalizm, varlığın özünün gerçek ve kalıcı olduğunu, her şeyin bir temel ve değişmez bir öz taşıdığını savunan felsefi bir görüştür. Bu anlayışa göre varlık, dış etkenlerden bağımsız olarak özüyle var olmaktadır. Esansiyalistler, her şeyin bir amacı ve belirlenmiş bir doğası olduğunu savunurlar."
+    },
+    {
+        "term": "absürd",
+        "desc": "Felsefede absürd, insanın varoluşunun anlamsızlığı ve çelişkilerle dolu olduğunu ifade eden bir kavramdır. İnsanın hiçbir amaç veya neden olmaksızın yaşadığı düşüncesini yansıtır. Absürd, hayatın karmaşıklığını ve mantıksızlığını anlamaya ve kabul etmeye yönelik bir bakış açısını ifade eder."
+    },
+    {
+        "term": "deontoloji",
+        "desc": "Deontoloji, etikte eylemlerin ahlaki doğruluğunu belirlemek için kural ve prensipleri temel alan bir yaklaşımdır. Bu terim, hareketlerin sonuçlarından ziyade eylemlerinin doğası ve yasalarına odaklanır. Deontoloji, ahlaki sorumlulukların objektif ve evrensel kurallara dayandığını savunur."
+    },
+    {
+        "term": "konseptualizm",
+        "desc": "Konseptualizm, gerçeklik veya bilgiyi kavramlarla anlamaya çalışan felsefi bir yaklaşımdır. Bu yaklaşıma göre, gerçeklik kavramlarla şekillenir ve bilgi kavramlar aracılığıyla elde edilir. Konseptualizm, genel olarak kavramlar ve düşüncelerin önemini vurgular."
+    },
+    {
+        "term": "dogmatizm",
+        "desc": "Dogmatizm, kişinin kendi inançlarını sorgulamadan, eleştirel düşünceyi reddederek kesin ve değiştirilemez olduğuna inandığı bir düşünce veya doktrin sistemidir. Dogmatik bir yaklaşım, alternatif görüşleri kabul etmeyerek, mutlak doğru olduğunu iddia ettiği bir fikre sıkı sıkıya bağlanmaktır."
+    },
+    {
+        "term": "ekzistansiyalizm",
+        "desc": "Ekzistansiyalizm, insanın varoluşuyla ilgilenen felsefi bir akımdır. Bireysel özgürlük, anlam arayışı ve varoluşsal kaygılara odaklanır. İnsanın özgür iradesiyle kendi anlamını yaratması gerektiğini savunur."
+    },
+    {
+        "term": "hedonizm",
+        "desc": "Hedonizm, en yüksek zevk ve mutluluğun insanların temel amacı olduğu felsefi bir görüştür. Hedonistler, haz ve keyif veren deneyimleri savunur ve yaşamın kalitesini artırmak için bu deneyimlere odaklanır. Ancak, hedonizm bazen ahlaki değerlerle çelişebilir ve sınırsız bir hazzın peşinde olmak eleştirilebilir."
+    },
+    {
+        "term": "utilitarizm",
+        "desc": "Utilitarizm, eylemlerin doğru veya yanlışlığının sonuçlarına bağlı olduğunu savunan bir ahlak teorisidir. İnsanlar mutluluğu maksimize etmeyi hedefler ve en fazla fayda sağlamak için eylemleri değerlendirir. Önceliği genel yararın sağlanmasıdır."
+    },
+    {
+        "term": "stoacılık",
+        "desc": "Stoacılık, Antik Yunan felsefesinin bir ekolüdür. Stoacılar, insanın eudaimonia (mutluluk ve tatmin) durumunu içsel huzur ve erdemlerle elde ettiğini düşünürler. Bağımsızlık, kabullenme ve adalet gibi değerler üzerinde odaklanır ve doğanın bir parçası olarak insanların yaşamı kabullenmesi gerektiğini savunur."
+    },
+    {
+        "term": "epikürcülük",
+        "desc": "Epikürcülük, Yunan felsefesinde Epicurus'un öğretilerine dayanan bir akımdır. Mutluluğun en yüce değer olduğunu savunur ve bu mutluluğun doğal arzuların tatmininde ve ruhsal huzurda olduğunu öne sürer. Ayrıca, zevk ve acının denge içinde olması gerektiğini vurgular."
+    },
+    {
+        "term": "sürekli değişim",
+        "desc": "Sürekli değişim, varoluşun temel bir özelliğidir ve her şeyin sabit bir durumda kalmadığını ifade eder. Her şey, zamanla dönüşüm geçirir ve yeni formlara bürünür. Bu sürekli değişim, yaşamın doğal bir akışıdır ve evrendeki her şeyin bir dönüşüm içinde olduğunu gösterir."
+    },
+    {
+        "term": "biliş",
+        "desc": "Biliş, insanın düşünme ve anlama yeteneğini ifade eden bir felsefe terimidir. Bilme, anlama, keşfetme, düşünme ve kavrama gibi zihinsel süreçleri içerir. Biliş, insanın gerçekliği algılama ve anlama şeklini inceler ve bu süreçleri anlamaya çalışır."
+    },
+    {
+        "term": "teleoloji",
+        "desc": "Teleoloji, bir varlığın veya olgunun, amaç veya hedefe yönelik olarak var olduğu felsefi bir kavramdır. Bir şeyin neden ve nasıl olduğunu anlamak için sonuçlara ve amaca odaklanır. Teleoloji, doğal dünyada düzenin var olduğunu ve bu düzenin bir amaca hizmet ettiğini öne sürer."
+    },
+    {
+        "term": "teizm",
+        "desc": "Teizm, Tanrı'nın var olduğunu ve insanlarla etkileşim halinde olduğunu savunan inanç sistemidir. Teistler, Tanrı'nın kutsal metinler, yaratılış ve doğa üzerinde kontrolü olduğuna inanır ve ona ibadet eder. Teizm, birçok dünyevi sorunun kaynağını ve çözümünü Tanrı'nın iradesiyle ilişkilendirir."
+    },
+    {
+        "term": "ateizm",
+        "desc": "Ateizm, Tanrı'nın varlığını reddeden bir inanç veya düşünce sistemi olarak tanımlanır. Ateistler, bilimsel ya da felsefi argümanlarla Tanrı'nın varlığını destekleyen kanıtların yetersiz olduğunu düşünürler. Ateizm, bireylerin Tanrı'nın inancına sahip olma özgürlüğünü reddetmez, sadece kendi inançlarının Tanrı'nın varlığına dayanmadığını savunur."
+    },
+    {
+        "term": "agnostisizm",
+        "desc": "Agnostisizm, bilginin ve gerçeğin kesin olarak bilinemeyeceğini savunan felsefi bir yaklaşımdır. Agnostikler, Tanrı'nın varlığı gibi metafizik kavramları ispatlayamayacaklarını düşünürler. Agnostisizm, bireyin bilgi sınırlamalarını kabul edip, inanç konularında kesin bir pozisyon almamayı tercih eder."
+    },
+    {
+        "term": "panteizm",
+        "desc": "Panteizm, Tanrı'nın evrende var olan her şeyle özdeş olduğunu savunan bir felsefi görüştür. Bu görüşe göre Tanrı, evrenin bir parçasıdır ve her şeyde mevcuttur. Panteistler, doğayı Tanrı'nın bedeni olarak görürler."
+    },
+    {
+        "term": "deizm",
+        "desc": "Deizm, Tanrı'nın var olduğunu ancak dünyaya müdahale etmediğini savunan bir felsefi inanç sistemidir. Deistlere göre Tanrı, evreni yaratmış ama doğal yasalarla işleyişini sağlamıştır. İnsanların Tanrı'yla bireysel bir ilişki kurma ihtiyacı yoktur."
+    },
+    {
+        "term": "fatalizm",
+        "desc": "Fatalizm, her olayın önceden belirlenmiş olduğunu ve insanların hayatlarını etkileyen her şeyin kaderleriyle örtüşeceğini iddia eden felsefi bir düşünce akımıdır. Fatalistler, insanın iradesinin önemsiz olduğuna inanır ve her şeyin kaçınılmaz olduğunu kabul ederler. Ayrıca, kişisel sorumluluğun önemsiz olduğunu savunurlar."
+    },
+    {
+        "term": "kader",
+        "desc": "Kader, insanın hayatta karşılaştığı olayların önceden belirlenmiş olduğuna inanılan bir kavramdır. Ona göre, her şey önceden yazılmış ve belirlenmiştir ve insanlar bu kaderi değiştiremezler. Kader, insanın hayatta karşılaştığı iyi veya kötü durumların nedenini açıklamak için kullanılır."
+    },
+    {
+        "term": "nihilizm",
+        "desc": "Nihilizm, varoluşçu bir felsefe akımıdır. Temelde herhangi bir anlam veya değer olmadığına inanır. Nihilizm, yaşamın anlamsız olduğunu savunur ve her türlü otoriteye, değerlere ve inançlara eleştirel bir yaklaşım benimser."
+    },
+    {
+        "term": "pesimizm",
+        "desc": "Pesimizm, hayatta en kötü senaryonun gerçekleşeceğine inanmayı temsil eder. Her şeyin olumsuz tarafını görerek dünya ve insan doğasının karanlık yönlerinin farkındalığını artırır. İnsanların hayal kırıklığına uğrayacağını, acı çekeceğini düşünür ve umutsuzluğa yol açabilir."
+    },
+    {
+        "term": "optimizm",
+        "desc": "Optimizm, olumlu bir görüş açısıyla hayata bakmayı ifade eder. İyimserlikle yaklaşıp her durumda potansiyel olumlu sonuçları görebilmeyi sağlar. Zorluklarla karşılaşıldığında motivasyonu ve umudu canlı tutar."
+    },
+    {
+        "term": "uyum teorisi",
+        "desc": "Uyum teorisi, toplumsal grupların ve bireylerin birbirleriyle etkileşim halindeyken uyumlu bir şekilde hareket etme eğilimini açıklamaya yönelik bir sosyal teoridir. Bu teori, insanların sosyal normları ve beklentileri takip etmeye yatkın olduklarını ve uyum sağlama çabasında olduklarını vurgular. Uyum teorisi, toplumsal kontrol mekanizmalarıyla da ilişkilendirilerek bireylerin toplumun kurallarını kabul etmelerini ve uyumlu davranışlar sergilemelerini teşvik eder."
+    },
+    {
+        "term": "çelişki",
+        "desc": "Felsefede, çelişki bir düşünce ya da ifade içerisinde karşıt durum veya görüşlerin bir arada bulunması durumudur. Çelişki, mantık ve akıl yoluyla çözülmesi gereken bir problem olarak kabul edilir. Çelişki, doğru ve yanlış arasındaki ayrımı bulanıklaştırabilir."
+    },
+    {
+        "term": "diyalektik",
+        "desc": "Diyalektik, Hegel'in felsefi yöntemi olan tez-antitez-sentez sürecine dayanan bir felsefe yaklaşımıdır. Bu yaklaşımda, bir düşünce ya da olgu sürekli olarak karşıt fikirlerin çatışmasından doğan yeni bir sentezle ilerler. Diyalektik, gerçeği ve düşünceyi dinamik ve sürekli değişen bir süreç olarak ele alan bir felsefi yaklaşımdır."
+    },
+    {
+        "term": "apriori",
+        "desc": "Apriori, deney ve gözlemlere dayanmadan önceki bilgi ve önceden edinilen bilgileri ifade eder. Bu terim, bazı bilgilerin doğuştan insana ait olduğunu ve deneyimlerin önemli olmakla birlikte tamamen bilgi edinmeye yetmediğini ifade eder. Apriori bilgi, mantık ve düşüncenin temel ilkeleri olarak kabul edilir."
+    },
+    {
+        "term": "aposteriori",
+        "desc": "Aposterori, deney ve gözlem yoluyla elde edilen bilgilere dayanan, insan bilgisinin kökenini deney ve gözleme dayandıran bir felsefi yaklaşımdır. Aposterori bilgiler, önceden bilinmeyen gerçeklikleri keşfetmek için kullanılır ve doğruluğu deneylere dayandığı için kesin kabul edilir. Aposterori bilgi, aklın ve mantığın kullanılmasına bağlı değildir."
+    },
+    {
+        "term": "deneycilik",
+        "desc": "Deneycilik, bilgi edinme sürecinde deney ve gözleme dayalı bir yaklaşımı ifade eder. Deneycilik, doğru bilgiye sadece deney ve gözlem yoluyla ulaşılabileceğini savunur. Bu perspektife göre, gerçeklik sadece deneyimlenerek anlaşılabilir ve bilimsel yöntemlerle test edilebilir."
+    },
+    {
+        "term": "doğaçlama",
+        "desc": "Doğaçlama, anlık ve spontane olarak ortaya çıkan bir performans sanatıdır. Bu sanatta, herhangi bir hazırlık veya planlama olmadan, doğaçlama yapan sanatçı, anlık duyumları ve düşünceleri kullanarak hareket eder. Doğaçlama, sanatçının yaratıcılığını ve spontane tepkilerini ön plana çıkaran bir özgürlük alanı sunar."
+    },
+    {
+        "term": "otorite",
+        "desc": "Otorite, bir kişi, kurum veya hükümetin yetkilendirilmiş olduğu güç ve yetkiyi ifade eder. Otorite, toplumda disiplini, düzeni ve karar verme mekanizmalarını sağlar. Otorite, genellikle belirli bir hiyerarşik yapıya dayanır ve toplumun kabul ettiği kurallar ve normlar üzerinde etkili olur."
+    },
+    {
+        "term": "bilgi",
+        "desc": "Bilgi, bilinçli bir şekilde kazanılan ve anlamlandırılan verilere dayalı bir anlama ve anlama sürecidir. Bilgi, gerçeği anlama ve açıklama çabasıdır. Bilgi, insanın düşünme, sorgulama ve karar verme süreçlerinde önemli bir rol oynar."
+    },
+    {
+        "term": "hipotez",
+        "desc": "Hipotez, bir araştırma veya deneyin başlangıcında ortaya atılan ve kanıtlanması veya çürütülmesi gereken bir önermedir. Bilimsel yöntemde kullanılan bu terim, araştırmaların ve deneylerin hedeflerini belirlemek ve sonuçları analiz etmek için kullanılır. Hipotez, bilimsel sürecin temelini oluşturur."
+    },
+    {
+        "term": "doğruluk",
+        "desc": "Doğruluk, bir düşünce veya ifadenin gerçeği yansıtması ve başka bir gerçeklikle uyuşmasıdır. Doğruluk, objektif olarak kanıtlanabilir ve doğrulanabilir olması gereken bir özelliktir. İnsanlar arasında iletişim ve bilgi paylaşımının temeli olarak kabul edilir."
+    },
+    {
+        "term": "yanlışlık",
+        "desc": "Özgür irade, bireyin kararlarını serbestçe verebilme yeteneğidir. Birey, kendini ve eylemlerini belirleyecek olan iradeye sahiptir. Özgür irade, insanın sorumluluk duygusunu da beraberinde getirir."
+    },
+    {
+        "term": "ihtimal",
+        "desc": "İhtimal, bir olayın gerçekleşme olasılığını ifade eden bir kavramdır. İnsanlar hayatları boyunca pek çok ihtimalle karşılaşırlar ve bu ihtimallerin değerlendirilmesi, karar verme süreçlerinde önemli bir rol oynar. İhtimaller, belirsizliği yönetmeye yardımcı olduğu için hayatımızın bir parçasıdır."
+    },
+    {
+        "term": "olasılık",
+        "desc": "Olasılık, bir olayın gerçekleşme ihtimalini nicelendirir. Bu ihtimal, 0 ile 1 arasında bir değer alır ve 1'e yaklaştıkça olayın gerçekleşme olasılığı artar. Olasılık, istatistik ve matematik alanında kullanılarak çeşitli tahminler ve analizler yapılır."
+    },
+    {
+        "term": "kaos",
+        "desc": "Kaos, düzenin eksik olduğu, düzensizlik ve belirsizliğin hüküm sürdüğü durumu ifade eder. Kaotik durumda herhangi bir öngörü, kontrol veya düzenlenme söz konusu olmaz, çelişkili veya karışık unsurlar arasında bir uyumsuzluk vardır. Kaos, düzenli ve anlaşılır bir yapı olmadığı için tahmin edilemezliğe ve kargaşaya yol açar."
+    },
+    {
+        "term": "karmaşa",
+        "desc": "Karmaşa, düzensizlik ve düzensizlik hissi anlamına gelir. Bir konunun veya durumun anlaşılması zor, karışık ve kafa karıştırıcı olduğunu ifade eder. Karmaşa, düşüncelerin ve duyguların birbirine karıştığı bir durumu da ifade edebilir."
+    },
+    {
+        "term": "belirsizlik",
+        "desc": "Belirsizlik, gelecekle ilgili kesin sonuçların veya tanımların olmamasını ifade eder. Bilgi eksikliği veya değişken faktörler nedeniyle bir durumun nasıl sonuçlanacağı önceden tahmin edilemez. Belirsizlik, insanların karar verme süreçlerini etkileyebilir ve hayatın birçok alanında varolabilir."
+    },
+    {
+        "term": "dogma",
+        "desc": "Dogma, belli bir inanç veya düşünceye mutlak şekilde inanmayı kabul eden ve bu inanca sorgulama veya eleştiri getirmeyi reddeden bir felsefi yaklaşımdır. Dogmatik düşünce, doğru kabul ettiği inançları tartışmasız bir şekilde savunur ve değiştirmeye kapalıdır. Ancak, dogmatik düşünceden uzaklaşmak, farklı görüşleri anlamaya ve kabul etmeye daha açık bir zihniyetle düşünmeyi gerektirir."
+    },
+    {
+        "term": "doğrulama",
+        "desc": "Doğrulama, bir hipotezin veya bir iddianın geçerliliğini veya doğru olup olmadığını belirlemek için yapılan bir yöntem veya süreçtir. Bu süreç genellikle deneysel veya mantıksal adımlarla yapılan çeşitli testleri ve kontrolleri içerir. Doğrulama, bilim ve felsefe gibi alanlarda önemli bir rol oynar."
+    },
+    {
+        "term": "yanlışlama",
+        "desc": "Yanlışlama, mantık ve eleştirel düşünce yöntemleriyle, bir iddia veya düşünceyi çürütme ya da geçersiz kılma işlemidir. Gerçeklere dayalı kanıtlarla, çelişkili veya mantıksal hatalar içeren bir iddianın yanlış olduğunu gösterir. Yanlışlama, doğruya ulaşma ve yanlışları ortaya çıkarma amacıyla kullanılan bir felsefi yöntemdir."
+    },
+    {
+        "term": "prova",
+        "desc": "Prova, bir şeyin doğruluğunu veya etkisini denemek amacıyla yapılan bir denemeyi ifade eder. Bir teorinin veya fikrin pratikte ne kadar işe yaradığını görmek için yapılan bir eylemdir. Prova, sonuçların incelenmesi ve değerlendirilmesi için bir referans noktası sağlar."
+    },
+    {
+        "term": "varsayım",
+        "desc": "Varsayım, bir konuya ilişkin düşünce veya teoriye dayalı kabul edilen ön kabuldür. Bilgi eksikliği veya belirsizlik durumunda kullanılır. Araştırmaların ve analizlerin temelini oluşturur, ancak gerçeği tespit etmek için kanıtlara ihtiyaç duyar."
+    },
+    {
+        "term": "varsayım",
+        "desc": "Varsayım, bilgi veya kanıtlar olmadığı durumlarda belirli bir şeyin doğru olduğunu varsaymaktır. Bu, teorik analiz, tartışma veya problem çözme süreçlerinde kullanılır. Varsayımlar, bir argümanı veya hipotezi desteklemek veya çalışmaya başlamak için başlangıç noktası sağlar."
+    },
+    {
+        "term": "gerekçe",
+        "desc": "Gerekçe, bir düşünce, eylem veya kararın temelini oluşturan neden veya mantıksal dayanaktır. Bir durumu anlamak veya bir sonucu açıklamak için kullanılır. Mantıklı ve geçerli bir gerekçe, bir argümanın gücünü ve doğruluğunu destekler."
+    },
+    {
+        "term": "sonuç",
+        "desc": "Felsefe, insanın varoluşunun anlamını sorgulayan ve gerçeklik, bilgi, ahlak gibi konuları inceleyen bir disiplindir. Felsefe, düşünceyi eleştirel bir şekilde değerlendirerek, evrensel bir anlama ulaşmaya çalışır. Felsefe, insanın düşünce ve bilgi dünyasını derinlemesine anlamlandırmaya yarayan bir araştırma alanıdır."
+    },
+    {
+        "term": "sebep",
+        "desc": "Sebep, bir olayın ya da durumun ortaya çıkmasına neden olan faktör, etken veya nedendir. Sebep, bir sonucun oluşmasını sağlayan etkendir. Seyrek olarak görülen bir durumda, sebep bazen doğrudan gözlemlenemeyebilir."
+    },
+    {
+        "term": "sonuç",
+        "desc": "Epistemoloji, bilginin kaynaklarını, sınırlarını ve doğasını inceleyen felsefi disiplindir. Metafiziksel ve bilimsel bilginin sınırlarını belirlerken, bilginin geçerlilik kriterlerini ortaya koyar. Aynı zamanda bilginin doğruluğu ve güvenirliği üzerine tartışmalar yapar."
+    },
+    {
+        "term": "neden",
+        "desc": "Kurucularından Karl Marx'ın da etkilerini taşıdığı felsefi akım; toplumsal, ekonomik ve siyasi yapıların eleştirel bir analizini yapar, toplumdaki eşitsizliklere ve adaletsizliklere odaklanır. Bu akım, emeğe dayalı bir toplum düzenini ve sınıf farklılıklarının ortadan kaldırılmasını savunur."
+    },
+    {
+        "term": "tutarlılık",
+        "desc": "Tutarlılık, bir düşünce veya görüşün içinde yer alan fikirlerin ve argümanların mantıklı bir şekilde birbiriyle uyumlu olması durumudur. Bir düşünce sistemi veya argümanın tutarlı olması, çelişkili veya çelişik olmayan bir şekilde ilerlemesini sağlar ve daha güvenilir bir temele dayanmasını sağlar. Tutarlılık, bir düşünce veya argümanın sağlamlığının ve kabul edilebilirliğinin belirlenmesinde önemli bir faktördür."
+    },
+    {
+        "term": "çoğulculuk",
+        "desc": "Çoğulculuk, farklı düşünce ve inançlara saygı gösteren bir anlayıştır. İnsanların farklı perspektiflerden bakabilmesini teşvik eder ve çeşitliliği kabul eder. Bu yaklaşım, toplumdaki çatışmaların çözümünde ve adaletin sağlanmasında önemli bir rol oynar."
+    },
+    {
+        "term": "monoteizm",
+        "desc": "Monoteizm, sadece tek bir tanrının var olduğuna inanan ve ona ibadet eden din anlayışıdır. Bu inanca göre, tanrı evrendeki en yüksek güçtür ve ona olan bağlılık ve itaat insanların yaşamlarının merkezinde yer alır. Monoteizm, Yahudilik, Hristiyanlık ve İslam gibi önemli dünya dinlerinin temel öğretilerinden biridir."
+    },
+    {
+        "term": "politeizm",
+        "desc": "Politeizm, birden fazla tanrının var olduğu inancını ifade eder. Birçok antik ve çağdaş toplumda görülen bir din anlayışıdır. Politeist inançlar, tanrıların farklı güç ve yeteneklere sahiP olduğunu ve insanın bu tanrılarla etkileşimde bulunabileceğini öne sürer."
+    },
+    {
+        "term": "panteizm",
+        "desc": "Panteizm, Tanrı'nın evrenin kendisi olduğunu savunan bir felsefi görüştür. Bu anlayışa göre Tanrı her şeyin içerisinde mevcuttur ve evren Tanrı'nın kendisidir. Panteizme göre Tanrı ile doğa, ayrılamaz bir şekilde bir bütündür."
+    },
+    {
+        "term": "panenteizm",
+        "desc": "Panenteizm, Tanrı'nın evrenle birlikte olduğuna inanan felsefi bir görüştür. Evrendeki her şey Tanrı'nın bir parçasıdır ve Tanrı her yerdedir. Bu görüşte Tanrı, evrenin bir parçası olarak kendini ifade eder ve doğa yasaları yoluyla etkisi sürekli olarak çalışır."
+    },
+    {
+        "term": "mistisizm",
+        "desc": "Mistisizm, insanın doğaüstü gerçeklerle, tanrısal deneyimlerle ve metafiziksel düşüncelerle ilgilenen bir felsefi akımdır. Mistisizmde, mantık ve akıl yerine içsel deneyimler ve sezgi önem kazanır. Mistikler, bireysel birleşme, aydınlanma ve ruhsal gerçekliği keşfetmeyi hedefler."
+    },
+    {
+        "term": "okültizm",
+        "desc": "Okültizm, gizli bilgilere ve spiritüel pratiklere odaklanan bir düşünce ve hareket tarzıdır. Doğaüstü güçlerin keşfi, ezoterik öğretilere erişim ve mistik deneyimler üzerine odaklanır. Metafizik, astroloji, büyü ve psişik yetenekler gibi konuları araştırır."
+    },
+    {
+        "term": "ruh",
+        "desc": "Ruh, insanın bedenin ötesinde var olan, düşünme, hissetme ve bilincini oluşturan metafizik bir varlık olarak kabul edilir. Ruh, bedenin ölümünden sonra da varlığını sürdürebilir ve reenkarnasyon gibi kavramlarla ilişkilendirilir. Ruh, insanın özü ve kişiliğinin temel taşıdır."
+    },
+    {
+        "term": "bilinçaltı",
+        "desc": "Bilinçaltı, Freud'un psikanalitik teorisine dayanan bir kavramdır. Bilinçaltı, bilincimizin altında yer alan, bilinçli düşüncelerimize, isteklerimize ve duygularımıza etki eden bir alandır. Bilinçli farkındalığımızın dışında kalan ve bilinçdışı bir şekilde davranışlarımızı yönlendiren bir güç olarak kabul edilir."
+    },
+    {
+        "term": "tinsellik",
+        "desc": "Tinsellik, insanın inançlarına ve manevi dünyasına yönelik olan bir kavramdır. Bu kavram, doğaüstü olanı, ruhani değerleri ve insanın iç dünyasını ifade eder. Tinsellik, insanların hayatta anlam bulmalarını sağlar ve onlara moral destek verir."
+    },
+    {
+        "term": "özdeşleşme",
+        "desc": "Özdeşleşme, bir kişinin veya grubun kendini başka bir kişi veya grubun bir parçası gibi hissetme durumudur. Bu durum, bireyin kendi kimliğini ya da düşüncelerini bir başkasınınkine benzeterek ona uyum sağlaması anlamına gelir. Özdeşleşme, genellikle bir grubun değerleri, normları veya davranışlarına uyum sağlamak için gerçekleşir."
+    },
+    {
+        "term": "algı",
+        "desc": "Algı, duyu organları aracılığıyla çevredeki bilgileri tespit etme ve anlama sürecidir. İnsanların dünyayı algılayabilmesi için göz, kulak, burun, dil ve deri gibi duyuları kullanılır. Algı, kişinin bilinçli olarak veya içselleştirilmiş bir şekilde çevresini anlamlandırmasını ve deneyimlemesini sağlar."
+    },
+    {
+        "term": "sezgi",
+        "desc": "Sezgi, bilinçli düşünme veya mantık yürütme ile elde edilemeyen, içsel bir bilgiye erişim yöntemidir. Sezgiler, anlık bir içgörü veya his olarak ortaya çıkabilir ve bazen mantıksal olarak açıklanamayan bilgiler sunabilir. Sezgi, yaratıcılık, problem çözme ve karar verme süreçlerinde önemli bir rol oynar."
+    },
+    {
+        "term": "deney",
+        "desc": "Deney, belirli bir hipotezi doğrulamak veya yanlışlamak için yapılan, gözlemler ve ölçümlerle desteklenen kontrol edilebilir bir işlemdir. Bilimsel yöntemin temel bir parçasıdır ve bilginin elde edilmesi ve doğrulanmasında önemli bir rol oynar. Deneyler, sürekli ilerleyen bilimsel keşiflerin ve bilgi birikiminin temelini oluşturur."
+    },
+    {
+        "term": "duyum",
+        "desc": "Duyum, çevremizdeki dünyayı algılamak için duyularımızı kullanma sürecidir. Duyumlar, duyular aracılığıyla elde edilen bilgilerdir. Gözle görme, kulakla işitme, burunla koku alma gibi duyularımız sayesinde çevremizdeki nesnelere ve olaylara dair bilgileri alırız."
+    },
+    {
+        "term": "içsellik",
+        "desc": "İçsellik, bireyin kendi iç dünyasına ve deneyimlerine yönelerek gerçekleri anlama ve değerlendirme sürecidir. Kişinin duygularını, düşüncelerini ve inançlarını dikkate alarak karar vermesine ve olayları yorumlamasına olanak tanır. İçsellik, bireyin özgünlüğünü ve bireysel farklılıklarını ön plana çıkaran bir yaklaşımdır."
+    },
+    {
+        "term": "dışsallık",
+        "desc": "Dışsallık, bir kişinin veya kurumun faaliyetlerinin etkilerinin, üçüncü tarafları (toplum veya diğer kişiler) olumlu veya olumsuz şekilde etkilemesidir. Örneğin, bir fabrikanın çevre kirliliğine sebep olması ve komşu köylerin yaşam kalitesini düşürmesi dışsallık olarak kabul edilebilir. Dışsallıklar, ekonomik ve sosyal açıdan dikkate alınması gereken önemli bir faktördür."
+    },
+    {
+        "term": "anlambilim",
+        "desc": "Felsefe terimi 'anlambilim', bir dilin veya dilin kullanımının nasıl yapılandırıldığı ve anlamlandırıldığı ile ilgili bir felsefe dalıdır. Anlambilim, dilin yapısını ve sözcüklerin anlamını, dilbilgisi kurallarını ve dilin kullanımını inceleyerek dilin nasıl işlediği üzerine felsefi bir bakış açısı sunar. Anlambilim, dilin ve dilbilgisinin doğası hakkındaki teorileri ve felsefi düşünceleri de içerir."
+    },
+    {
+        "term": "dilbilim",
+        "desc": "Dilbilim, insan dilini inceleyen bir disiplindir. Dilin yapısını, işleyişini ve işlevlerini inceler. Dilbilim, dilin tarihsel, sosyal ve kültürel bağlamını da araştırır."
+    },
+    {
+        "term": "göstergebilim",
+        "desc": "Göstergebilim, semboller ve işaretler üzerine çalışan bir felsefe disiplinidir. Dilin anlamlarını ve göstergelerin nasıl işlediğini analiz ederek dilbilim, sosyoloji ve psikoloji alanlarını birleştirir. Göstergebilim, iletişim ve anlam oluşturma süreçlerini anlamak için sembollerin kullanımını inceler."
+    },
+    {
+        "term": "gerçeklik",
+        "desc": "Gerçeklik, var olan herhangi bir şeyin gerçek, objektif ve bağımsız olarak var olması durumudur. Gerçeklik, bilgiye dayanan ve gerçek dünyayı yansıtan bir durumu ifade eder. Gerçeklik, herhangi bir pozitif veya negatif değerlendirmeye tabi tutulmadan var olan gerçek durumu ifade eder."
+    },
+    {
+        "term": "simülasyon",
+        "desc": "Simülasyon, gerçek yaşamı taklit etmek için kullanılan bir modelleme ve hesaplama yöntemidir. Bilgisayar tabanlı simülasyonlar, gerçek dünyadaki olayları analiz etmek, sistemleri test etmek ve davranışları tahmin etmek için kullanılır. Simülasyonlar, karmaşık sistemlerin çalışma prensiplerini anlamak ve üzerinde deney yapmak için önemli bir araçtır."
+    },
+    {
+        "term": "tinsel",
+        "desc": "Tinsel, ruhsal veya manevi olanla ilgili anlamına gelir. Maddi dünyanın ötesindeki varlıklar, hisler veya düşünceler ile ilgilenir. Tinsel kavramı, insanın içsel deneyimlerini ve dini veya spiritüel inanışlarını ifade etmek için kullanılır. Tinsel dünya, maddi dünyadan farklı bir gerçeklik ve anlam taşır."
+    },
+    {
+        "term": "madde",
+        "desc": "Madde, fiziksel varlık olarak tanımlanan herhangi bir şeyi ifade eder. Felsefede, madde genellikle maddi varlıkların temel yapı taşı olarak kabul edilir. Madde, maddi dünya içinde bulunan nesnelerin fiziksel özelliklerini ve ilişkilerini açıklamaya yardımcı olur."
+    },
+    {
+        "term": "us",
+        "desc": "İnsanın düşünme ve anlama yeteneğine dayanan akıl, felsefenin temel taşıdır. Akıl, insanın gerçekleri keşfetme, mantıklı sonuçlara ulaşma ve anlam arayışında kullanılan bir araçtır. Felsefe, akıl yoluyla düşünce sistematiklerini kurar ve insanın evrensel sorularını cevaplamaya çalışır."
+    },
+    {
+        "term": "tutku",
+        "desc": "Tutku, yoğun bir duygu veya ilgiyle beslenen güçlü bir hissi ifade eder. Bir kişinin bir konu, hobi veya amaç etrafında büyük bir tutkuyla yanması, onun için önemini ve önceliğini vurgular. Tutku, insanların hayatta isteklerini gerçekleştirmelerini teşvik eden bir motivasyon kaynağıdır."
+    },
+    {
+        "term": "duygu",
+        "desc": "Duygu insanların deneyimlediği içsel ve subjektif tepkilerdir. Duygular, hissettiğimiz düşünceler ve fiziksel durumlar aracılığıyla ifade edilir. Sevinç, korku, öfke gibi farklı duygularımız, yaşam deneyimlerimize ve çevresel uyaranlara bağlı olarak değişiklik gösterebilir."
+    },
+    {
+        "term": "sevgi",
+        "desc": "Sevgi, insanlar arasında derin bir bağ ve anlayış oluşturan duygusal bir bağ olup, sevgiyle yaklaşma, destekleme ve saygı gösterme anlamına gelir. Sevgi, karşılıklı empati ve şefkatle beslenen bir duygu olup, insanların bağlantı kurmasına ve harmoni içinde birlikte çalışmasına yardımcı olur."
+    },
+    {
+        "term": "nefret",
+        "desc": "Nefret, yoğun bir duygusal tepki olarak ortaya çıkar ve birini veya bir şeyi kesinlikle kabul etmemek, sevmemek veya hoşlanmamak anlamına gelir. Nefret, genellikle öfke, kin veya önyargı ile ilişkilendirilir ve kalıcı bir düşmanlık veya düşmanlık duygusu yaratır. Nefret, insanların arasında anlaşmazlık ve ayrımcılık yaratma potansiyeline sahip güçlü bir duygudur."
+    },
+    {
+        "term": "empati",
+        "desc": "Empati, başka birinin duygularını anlamaya ve onları paylaşmaya yönelik bir yetenektir. Empati, kişiler arasında bağ kurmayı ve iletişimi güçlendirmeyi sağlar. Empati sayesinde diğer insanların perspektifinden bakabilme ve anlama becerisi geliştirilir."
+    },
+    {
+        "term": "his",
+        "desc": "His, duygu ve duyumların bireyde meydana getirdiği içsel deneyimlerdir. İnsanların düşünceleri ve davranışları üzerinde etkili olan hisler, bireyin duygu ve duygusal tepkilerini ifade etmede önemli bir role sahiptir. Hisler, insanların yaşantılarına anlam katan ve onları diğer canlılardan ayıran önemli bir özelliktir."
+    },
+    {
+        "term": "idrak",
+        "desc": "Felsefe terimi 'idrak', insanın düşünce ve algılama sürecini ifade eder. İdrak, zihnin bilgiyi anlama, kavrama ve yorumlama kapasitesidir. İnsanın içeriği anlaması ve anlamlandırması için kullanılan bir yetenektir."
+    },
+    {
+        "term": "imgelem",
+        "desc": "İmgelem, zihnin içinde var olan veya yeni yaratılan görüntülerin zihinsel olarak canlandırılmasıdır. İmgelem, düşünme, hayal etme ve sanatın temelini oluşturan bir süreçtir. İmgelem sayesinde soyut kavramlar görsel bir şekilde ifade edilebilir."
+    },
+    {
+        "term": "yargı",
+        "desc": "Yargı, bir konuya veya duruma ilişkin değerlendirme yapma işlemidir. Bir şeyi doğru ya da yanlış, iyi ya da kötü olarak belirlemek için kullanılır. Yargılar düşünsel süreçler ve deneyimler sonucunda oluşur."
+    },
+    {
+        "term": "varsayım",
+        "desc": "Varsayım, bir durum veya olay hakkında önceden yapılan tahmin veya kabulleri ifade eden bir düşünce veya hipotezdir. Bilimsel çalışmalarda, varsayımlar teorilerin oluşturulmasında önemli bir rol oynar. Varsayımlar, daha sonra deney veya gözlem yoluyla test edilebilir veya çürütülebilir."
+    },
+    {
+        "term": "önkabul",
+        "desc": "Önkabul, bireyin bilinçli veya bilinçsiz olarak kabul ettiği ve inandığı varsayımlardır. Önkabuller, bireyin düşüncelerini ve değerlerini şekillendirir ve düşünme süreçlerini etkiler. Bu nedenle, farkındalık ve eleştirel düşünme ile önkabullerimizi sorgulamak önemlidir."
+    },
+    {
+        "term": "aksioloji",
+        "desc": "Aksioloji, değerlerin ne olduğunu ve nasıl değerlendirileceğini inceleyen felsefi disiplindir. İnsanların değerleri ve değerlendirme yöntemleri hakkında bilgi sağlar. Aksioloji, ahlaki, estetik ve epistemolojik değerlerin doğasını ve kaynağını araştırır."
+    },
+    {
+        "term": "sınırlılık",
+        "desc": "Sınırlılık, insanın bilgi, güç veya deneyim açısından belirli bir noktada kısıtlı olması durumunu ifade eder. İnsanın yeteneklerinin ve potansiyelinin sınırlarının farkında olması, özgü humeyni ve mütevazi bir tutuma sahip olmasını sağlar. Sınırlılık, insanın kendini ve dünyayı anlama sürecinde özgürce kabul etmesini ve geliştirmesini gerektirir."
+    },
+    {
+        "term": "sonsuzluk",
+        "desc": "Sonsuzluk, herhangi bir sınırlama veya son bulunmayan bir durumu ifade eder. Matematikte, sonsuzluk kavramı sayıların sonu olmamasını temsil eder. Felsefede ise sonsuzluk, insan zihninin kavramaya çalıştığı sınırları aşan, sonsuz olanın varlığını anlamaya çalışma çabasıdır."
+    },
+    {
+        "term": "determinizm",
+        "desc": "Determinizm, fiziksel ve zihinsel olayların neden-sonuç ilişkilerine bağlı olduğu görüşüdür. Buna göre, her durum ve olay önceden belirlenmiştir ve insanlar özgür iradeye sahip değildir. Determinizm, evrenin düzen ve düzenlilik prensiplerine uyduğunu savunur."
+    },
+    {
+        "term": "indeterminizm",
+        "desc": "İndeterminizm, doğal ya da toplumsal olayların sonuçlarının tam olarak öngörülemeyeceğini savunan felsefi bir görüştür. Buna göre, her olayın neden-sonuç ilişkisi kesin olarak belirlenemez ve bazı şeyler şans veya rastlantılarla da şekillenebilir. İndeterminizm, özgür irade ve tesadüflerin önemli olduğunu vurgular."
+    },
+    {
+        "term": "kozmoloji",
+        "desc": "Kozmoloji, evrenin yapı ve gelişimini inceleyen felsefi bir disiplindir. Evrenin nasıl oluştuğunu, içerdiği madde ve enerjiyi, zamanın ve uzayın yapısını araştırır. Kozmoloji, evrenin kökeni, büyüklüğü, sınırları ve varoluşun amacı gibi temel sorulara yanıt aramaktadır."
+    },
+    {
+        "term": "evrim",
+        "desc": "Evrim, canlıların zaman içinde değişerek türlerinin çeşitliliğini artırdığı bir süreçtir. Bu süreç, doğal seçilim ve mutasyon gibi mekanizmalarla gerçekleşir. Evrim, canlıların yaşam tarzlarının, anatomilerinin ve adaptasyonlarının da zamanla değişmesine neden olur."
+    },
+    {
+        "term": "devinim",
+        "desc": "Devinim, bir nesnenin veya sistemin zaman içindeki hareketi veya değişimidir. Fiziksel cisimlerin yer değiştirmesi veya sürekli hareket etmesi durumunda devinim meydana gelir. Devinim, evrende birçok olayın temelinde yer almaktadır ve doğal bir süreçtir."
+    },
+    {
+        "term": "değişim",
+        "desc": "Değişim, bir şeyin eski halinden farklı bir duruma dönüşmesini ifade eder. Felsefede ise değişim, varoluşun bir temel özelliği olarak kabul edilir ve her şeyin sürekli olarak değişim halinde olduğu düşünülür. Değişim, dönüşüm ve gelişimin temel kaynağı olarak görülür."
+    },
+    {
+        "term": "zaman",
+        "desc": "Zaman, var olan her şeyin sürekli değişim ve akış içerisinde olduğunu ifade eden bir kavramdır. Geçmiş, şimdi ve gelecek olmak üzere üç farklı boyutta algılanır. Zaman, insanların hayatlarına anlam katan önemli bir unsurdur."
+    },
+    {
+        "term": "mekan",
+        "desc": "Mekan, varlıkların yer aldığı, fiziksel olarak algılanabilen bir alan veya yerdir. Mekanlar, insanların yaşamını etkiler ve sosyal ilişkileri şekillendirir. Mekan, insanların deneyimlerini ve düşüncelerini etkileyen önemli bir kavramdır."
+    },
+    {
+        "term": "uzam",
+        "desc": "Uzam, nesnelerin ve olayların yer aldığı, uzunluk, genişlik ve yükseklik gibi boyutsal özellikleri olan bir kavramdır. Uzam, evrende var olan her şeyin var olduğu bir alanı ifade eder. Uzam, maddi varlıkların konumlanmasını ve hareket etmesini mümkün kılar."
+    },
+    {
+        "term": "süreç",
+        "desc": "Süreç, belli bir amaca yönelik olarak gerçekleştirilen bir dizi adım veya etkinliklerin ardışık ve devamlı şekilde ilerlemesi anlamına gelir. Süreçler belirli bir zaman dilimi içinde gerçekleşir ve sonuçlara ulaşmayı hedefler. Bir süreç, başlangıç noktasından hedefe kadar olan yolculuğu temsil eder."
+    },
+    {
+        "term": "olasılık",
+        "desc": "Olasılık, gerçekleşme ihtimali olan olayların sayısal bir ifadesidir. Bir olayın gerçekleşme olasılığı 0 ile 1 arasında değer alır. Bu değer ne kadar yüksekse, olayın gerçekleşme ihtimali de o kadar yüksektir."
+    },
+    {
+        "term": "ihtimal",
+        "desc": "İhtimal, belirsizlik içeren bir durumun gerçekleşme olasılığını ifade eder. Bir olay veya durumun gerçekleşme veya gerçekleşmeme ihtimali bulunabilir. İnsanlar genellikle bu ihtimalleri değerlendirerek karar verme sürecinde kullanır."
+    },
+    {
+        "term": "mümkünat",
+        "desc": "'Mümkünat', Arapça kökenli bir terim olup, bir şeyin gerçekleşebilme potansiyelini veya bir şeyin olabilecek durumunu ifade eder. Yani, bir nesnenin veya bir olayın olması, mevcut olması veya varlık göstermesi için olanak veya imkan anlamında kullanılır. Bir durumun veya şeyin mümkünatı, onun gerçekleşebilirlik veya olabilirlik durumunu temsil eder."
+    },
+    {
+        "term": "zaruret",
+        "desc": "Zaruret, mevcut koşullarda kaçınılmaz olan şeylere ve bir şeyin sonucunda meydana gelen zararlardan kaçınılmaz olarak yapılan bir eyleme atıfta bulunur. Zaruret, insanların hayatta kalabilmek veya büyük bir zorlukla karşılaşmak için yapmaları gereken eylemleri ifade eder."
+    },
+    {
+        "term": "teleoloji",
+        "desc": "Teleoloji, olay ve nesnelerin amaçlar, nihai hedefler ve sonuçlar etrafında açıklanmasını inceleyen bir felsefe dalıdır. Teleoloji, doğada ve insan davranışlarında gözlenen düzenin bir amaca hizmet ettiğini savunur. Bu yaklaşım, her şeyin rastlantısal olmadığını ve belli bir amaca doğru ilerlediğini öne sürer."
+    },
+    {
+        "term": "finalite",
+        "desc": "Finalite, bir şeyin amacını veya hedefini ifade eder. Her şeyin belirli bir niyet veya sonuca yönelik bir düzenliliği olduğunu belirtir. Finalite, bir şeyin neden var olduğunu veya ne amaçla yapıldığını anlamayı sağlar."
+    },
+    {
+        "term": "amacılık",
+        "desc": "Amacılık, bir eylemin veya düşüncenin sonucunda ulaşılması hedeflenen bir amacın varlığını savunan bir felsefe anlayışıdır. Amacılığa göre, her eylemde bir amaç vardır ve tüm eylemler bu amaca yönelik olarak gerçekleştirilir. Amacılık, insanların ve toplumun amaçlarını belirleyerek anlamlı bir yaşam sürdürmeyi amaçlar."
+    },
+    {
+        "term": "fonksiyonalizm",
+        "desc": "Fonksiyonalizm, bir sistemin işlevlerinin ve amaçlarının önemli olduğunu savunan bir felsefi yaklaşımdır. Bu yaklaşıma göre, bir şeyin ne olduğu değil, ne yaptığı ve nasıl kullanıldığı önemlidir. Fonksiyonalizm, bireylerin ve toplumun fonksiyonlarına odaklanarak sistemi anlamak ve açıklamak için kullanılır."
+    },
+    {
+        "term": "kuantum",
+        "desc": "Kuantum, fizik ve felsefe alanlarında kullanılan bir terimdir. Kuantum teorisi, atomaltı parçacıkların davranışını açıklar. Kuantum felsefesi ise gerçekliğin temel yapısını ve bilginin doğasını sorgular."
+    },
+    {
+        "term": "reel",
+        "desc": "Reel bir terim olarak, gerçek, somut veya fiziksel anlamını taşır. Reel, soyut kavramların aksine somut varlıkları ve gerçek olayları ifade etmek için kullanılır. Reel olan, deneyimlenebilir ve duyusal olarak algılanabilen şeylerdir."
+    },
+    {
+        "term": "irreal",
+        "desc": "İrreal, gerçek olmayan ya da varolmayan şeyleri ifade eder. İnsanın zihinsel dünyasında var olan, gerçeğe dayanmayan fikirler ya da hayalleri ifade etmek için kullanılır. İrreal, gerçeklikten uzaklaşarak hayal dünyasında yeni ve farklı düşünceler yaratma potansiyelini temsil eder."
+    },
+    {
+        "term": "spekülatif",
+        "desc": "Spekülatif, gerçek dünyanın ötesine geçen, kuramsal veya varsayımsal düşünceleri ifade eden bir felsefe terimidir. Varoluşu, bilinmeyeni veya belirsiz olanı anlamaya çalışır ve teoriler üzerine odaklanır. Spekülatif felsefe, ontoloji, epistemoloji ve metafizik gibi alanları kapsar."
+    },
+    {
+        "term": "aksiomatik",
+        "desc": "Aksiomatik, bir disiplin veya sistemde temel kabul edilen prensiplerin ve ilkelelerin hareket noktası olarak kullanıldığı bir yaklaşımı ifade eder. Aksiomatik yöntemle, mantıklı ve tutarlı bir şekilde düşünce yapıları ve matematiksel sistemler oluşturulabilir. Aksiomatik düşünce, temel gerçekler üzerine inşa edilen bir bütünlük ve tutarlılık sağlamak amacıyla kullanılır."
+    },
+    {
+        "term": "kıyas",
+        "desc": "Kıyas, bir konu veya durumu benzerlikler üzerinden değerlendirme veya karşılaştırma yaparak anlamaya çalışma yöntemidir. Mantığa dayanan bir argüman yöntemi olan kıyas, bir şeyin diğerine benzer olduğu sonucunu çıkarmamıza yardımcı olur. Kıyas, yeni bilgi ve anlayışlar elde etmek için önemli bir araçtır."
+    },
+    {
+        "term": "tümevarım",
+        "desc": "Tümevarım, bireysel veya belirli örneklerden genel bir sonuç çıkarma işlemidir. Bu yöntemde, belli bir sayıda örnek veya deney üzerinden genel bir kural veya prensip tespit edilir. Tümevarım, genel geçer bir sonuca ulaşabilmek için örnekleri analiz etme ve ortak özellikleri belirleme sürecini içerir."
+    },
+    {
+        "term": "tümdengelim",
+        "desc": "Tümdengelim, özelden genele doğru çıkarımlar yapma yöntemidir. Belli bir durumu ya da örneği inceleyerek genel bir sonuca ulaşmaya çalışır. Örnekler üzerinden genellemeler yapmayı sağlar. Bilimsel araştırmalarda sıkça kullanılan bir yöntemdir."
+    },
+    {
+        "term": "abdüksiyon",
+        "desc": "Abdüksiyon, Charles Sanders Peirce tarafından ortaya atılan bir mantık yöntemidir. Abdüksiyon, tümdengelim ve tümevarımın arasında bir yerde duran bir çıkarsama türüdür. Bu yöntemde, verilerden hareketle olası bir açıklama veya hipotez üretilir ve daha sonra doğruluğu test edilir. Abdüksiyon, bilimsel araştırmalarda ve akıl yürütmede kullanılan etkili bir yaklaşımdır."
+    },
+    {
+        "term": "anomi",
+        "desc": "Anomi, bireylerin toplumun değer ve normlarından uzaklaşması sonucu ortaya çıkan bir durumdur. Bu durumda, kişilerin normlara uymakta zorluk çekmesiyle birlikte, toplumsal denge ve düzen bozulabilir. Anomi, toplumsal yapıya olan uyumu ve bireyler arası ilişkileri etkileyebilir."
+    },
+    {
+        "term": "anomali",
+        "desc": "Anomali, genel düzenin veya normların dışında olan, sıradışı veya beklenmedik bir durumu ifade eder. Felsefe bağlamında, anomali genellikle bir teorinin veya düşüncenin mevcut paradigmasıyla uyuşmayan veya ona meydan okuyan bir fenomen veya durumu ifade etmek için kullanılır. Anomali, bilimsel veya felsefi düşüncede yeni keşifler veya fikirlerin başlangıcını tetikleyebilir. "
+    },
+    {
+        "term": "arketip",
+        "desc": "Arketip, Carl Jung'un analitik psikoloji kuramında kullanılan bir terimdir. İnsanlık tarihinde evrensel olarak ortaya çıkan, kollektif bilinçaltı tarafından paylaşılan temel sembollerdir. Arketipler, insanların duygu, düşünce ve davranışları üzerinde derin etkilere sahip olabilir ve mitoloji, din ve edebiyat gibi alanlarda kendini gösterebilir."
+    },
+    {
+        "term": "asimilasyon",
+        "desc": "Asimilasyon, bir kültür veya grup içindeki bireylerin benzer özellikler göstererek uyum sağlaması sürecidir. Bu süreçte, farklılıkların azaltılarak homojen bir yapı oluşturulmaya çalışılır. Asimilasyon, genellikle sosyal baskı ve entegrasyon yoluyla gerçekleşir ve bireylerin kimliklerini değiştirmelerini gerektirebilir."
+    },
+    {
+        "term": "değişmez",
+        "desc": "Değişmez terimi, herhangi bir dönüşüm ya da değişim geçirmeyen, sabit ve kalıcı olan anlamında kullanılan bir kavramdır. Değişmezlik, belirli bir durumu veya özelliği olan nesne ya da kavramların değişime uğramadan aynı şekilde varlığını sürdürmesi anlamına gelir. Değişmezlik, felsefede zaman, uzay veya nesnelerin doğası gibi konuları kapsayabilir."
+    },
+    {
+        "term": "muğlaklık",
+        "desc": "Muğlaklık, bir kavramın veya ifadenin belirsizlik içerdiği durumu ifade eder. Bir düşünce veya fikir net ve açık olmayabilir, anlamı belirsiz veya birden fazla yorumlamaya açık olabilir. Muğlaklık, anlaşmazlık, yanlış anlaşılma veya tartışmalara neden olabilir."
+    },
+    {
+        "term": "belirginlik",
+        "desc": "Belirginlik, bir şeyin açık ve net olması, belirli bir şekilde tanımlanması veya belirgin özelliklere sahip olması anlamına gelir. Bir nesnenin veya kavramın belirgin olması, onu diğerlerinden ayırabilme veya tanımlayabilme yeteneği sağlar. Belirginlik, netlik, açıklık ve kesinlik ile ilişkilidir."
+    },
+    {
+        "term": "bilgi teorisi",
+        "desc": "Bilgi teorisi, bilginin doğasını, kökenini ve nasıl elde edildiğini içeren bir felsefi disiplindir. Bilgi teorisi, epistemoloji ile yakından ilişkilidir ve bilginin ne olduğunu, nasıl değerlendirileceğini ve nasıl iletişim kurulacağını araştırır. Bu teori, insan bilincinin sınırlarını ve bilginin nesnel veya sübjektif olma potansiyelini de ele alır."
+    },
+    {
+        "term": "bireycilik",
+        "desc": "Bireycilik, bireyin özgürlüğü, yetenekleri ve hedefleri üzerinde odaklanan bir felsefe anlayışıdır. İnsanların toplumun normlarına uymadan kendi değerlerine ve ilgi alanlarına göre yaşama hakkı olduğunu savunur. Bireycilik, kişinin özgür iradesine dayanarak kendi yaşamının sorumluluğunu üstlenmesini teşvik eder."
+    },
+    {
+        "term": "kolektivizm",
+        "desc": "Kolektivizm, bireysel çıkarlardan ziyade toplumun çıkarlarını ve kolektif hedefleri ön planda tutan bir felsefi yaklaşımdır. Temelinde dayanışma ve eşitlik değerleri vardır. Bireyin refahı, toplumun refahıyla bağlantılıdır ve kolektif çözümleri destekler."
+    },
+    {
+        "term": "tekillik",
+        "desc": "Felsefede tekillik, bir şeyin ya da varlığın tek ve benzersiz oluşunu ifade eder. Bir nesnenin sadece bir tane olduğu, diğerlerinden ayrıldığı ve özgün niteliklere sahip olduğu anlamını taşır. Tekillik, farklılık ve özgünlüğü vurgular, var olan her şeyin benzersiz ve özel olduğunu kabul eder."
+    },
+    {
+        "term": "çoğulluk",
+        "desc": "Çoğulluk, birbirleriyle ilişkili olan veya aynı kategoride bulunan birden fazla öğenin bir araya gelmesi veya birlikte hareket etmesidir. Bu kavram, toplumlar, gruplar veya nesneler arasındaki ilişkileri ifade edebilir ve çeşitlilik, dayanışma veya güçlü birlik gibi farklı anlamlar taşıyabilir. Çoğulluk, birlikte varoluşu ve ortak amaçlara yönelimi temsil eder."
+    },
+    {
+        "term": "tanım",
+        "desc": "Felsefe, insanın düşünce ve bilgiyle ilgilenen bir disiplindir. Felsefede evrenin doğası, bilgi, ahlak, gerçeklik gibi konular ele alınır. Felsefe, insanın dünyayı anlama çabasını ifade eder ve sorgulayıcı bir yaklaşımı temsil eder."
+    },
+    {
+        "term": "paradoks",
+        "desc": "Paradoks, mantık veya düşünceyle ilgili bir çelişki veya tutarsızlık durumunu ifade eder. Genellikle görünürde doğru olan ancak biraz düşünüldüğünde yanlış olduğu anlaşılan ifadeleri tanımlamak için kullanılır. Paradokslar, felsefe ve mantık alanında önemli bir rol oynar ve düşünsel açılımları sorgulamayı teşvik eder."
+    },
+    {
+        "term": "koçut",
+        "desc": "Koçut, matematiksel mantığa dayanan ve doğruluğu bir düşüncenin başka bir düşünceyle uyumlu olmasına bağlayan bir felsefi kavramdır. Koçutluk ilişkisi, bir düşüncenin doğruluğunun başka bir düşüncenin doğruluğu ile uyumlu olması durumunu ifade eder. Bu kavram, mantıksal tutarlılık ve çelişkisizlik prensiplerini temel alır."
+    },
+    {
+        "term": "yenilik",
+        "desc": "Yenilik, mevcut durumu değiştirip geliştiren, ileriye doğru adım atan bir eylem veya düşüncedir. Yaratıcı bir zihnin ürünü olan yenilik, insanların ihtiyaçlarını karşılamak, problemleri çözmek veya daha iyi bir yaşam standardı elde etmek amacıyla ortaya çıkar. Yenilikçi fikirler ve buluşlar, toplumu ileriye taşımada önemli rol oynar."
+    },
+    {
+        "term": "yabancılaşma",
+        "desc": "Yabancılaşma, bireyin kendine, diğer insanlara ve dünyaya karşı duyduğu yabancılaşma hissidir. Bu durum, modern yaşamın getirdiği mekanikleşme, ilişkisizlik ve anlam kaybıyla ilişkilendirilir. Yabancılaşma, bireyin özünü ve amaçlarını kaybettirerek ruhsal eksikliklere yol açabilir."
+    },
+    {
+        "term": "başkalaşım",
+        "desc": "Başkalaşım, bir varlığın doğal ya da süreçsel olarak biçim, nitelik veya yapı değişikliği geçirmesi anlamına gelir. Bu değişim, fiziksel, kimyasal veya davranışsal olarak gerçekleşebilir. Başkalaşım, canlıların yaşam döngüsü içerisinde önemli bir rol oynar ve evrimsel süreçlerin temel bir unsuru olarak kabul edilir."
+    },
+    {
+        "term": "simge",
+        "desc": "Simge, bir kavramı veya düşünceyi temsil eden bir nesne, işaret veya semboldür. Simgeler dil ve kültür aracılığıyla anlaşılır ve genellikle derin anlamlar taşır. Simgeler, insanların düşünme, iletişim ve anlama süreçlerinde önemli bir rol oynar."
+    },
+    {
+        "term": "metafor",
+        "desc": "Metafor, bir şeyin başka bir şeyi temsil ettiği, benzetme yaparak anlatımı zenginleştiren bir dil ve düşünce şeklidir. Gerçek anlamının ötesine geçerek, imgeler ve semboller aracılığıyla anlam katmaya ve derinliğe ulaşmaya yardımcı olur. Metaforlar, sanat eserleri, şiirler ve edebi metinlerde sıkça kullanılır."
+    },
+    {
+        "term": "metonimi",
+        "desc": "Metonimi, bir kelimenin başka bir kelimeyle yer değiştirmesi yoluyla anlamın aktarılmasıdır. Bir şeyin sadece bir parçasının ya da sembolünün kastedilerek bir bütünün ifade edilmesi durumudur. Örneğin, Candan bir haber almak istiyorum cümlesinde candan kelimesiyle sevdiklerimden kastedilmektedir."
+    },
+    {
+        "term": "nesnellik",
+        "desc": "Nesnellik, gerçekliğin ve bilginin objektif ve bağımsız bir şekilde var olduğunu ifade eder. Nesnellik, kişisel düşüncelerden ve duygulardan bağımsız olarak evrensel geçerlilik taşıyan doğru ve doğruya en yakın yanıtların bulunmasını hedefler. Nesnellik, eleştirel düşünme ve bilimsel metodoloji gibi araçlarla ulaşılabilir."
+    },
+    {
+        "term": "sahicilik",
+        "desc": "Sahicilik, gerçekçilik felsefesinin bir dalıdır. Öznel deneyimlerin ve duyusal bilginin önemli olduğunu savunur. Sahici olmak, kendini olduğu gibi ifade etmek ve gerçekliğin içinden bir perspektif sunmaktır."
+    },
+    {
+        "term": "sahtelik",
+        "desc": "Sahtelik, gerçek veya doğru olmayan bir şeyin taklit edilerek sunulması veya bir şeyin özgün niteliklerinin eksik olduğu durumları ifade eder. Bu kavram, insanların gerçeklikten uzaklaşarak kendi kendini kandırması veya başkalarını aldatması durumlarını tanımlayan bir terimdir."
+    },
+    {
+        "term": "ilişkililik",
+        "desc": "ilişkililik, herhangi bir kavramın başka bir kavramla olan bağlantısı veya ilişkisini ifade eden bir felsefi terimdir. İlişkililik, her şeyin birbiriyle bağlantılı olduğunu ve hiçbir şeyin izole olarak var olmadığını kabul eder. İlişkililik, felsefede bağlantıların ve etkileşimlerin önemini vurgular."
+    },
+    {
+        "term": "içkinlik",
+        "desc": "İçkinlik, Bir şeyin doğasında veya özünde bulunan özelliklerin etkisi altında olma durumudur. İçkindeki özellikler, nesnenin veya olgunun niteliğini ve davranışını belirler. İçkinlik, nesnenin veya olgunun doğasında mevcut olduğu için değiştirilemez bir özelliğe sahiptir."
+    },
+    {
+        "term": "aşkınlık",
+        "desc": "Felsefede aşkınlık, insanların maddi dünyadan bağımsız olarak var olan bir gerçekliğe ulaşma çabasıdır. İnsanların duyularının ötesinde olan evrensel bir gerçekliği keşfetme isteğidir. Aşkınlık, metafizik düşüncelerin temelini oluşturur ve insanların evrensel bilgiye ulaşma girişimidir."
+    },
+    {
+        "term": "tikel",
+        "desc": "Tikel, belirli bir örneği veya nesneyi ifade eden, tekil veya somut olan bir kavramdır. Tikel kavramlar genellikle bireysel varlıkları veya belirli olayları temsil etmek için kullanılır. Örnek olarak, bir elma, bir masa, bir köpek gibi tikel kavramlar kullanılabilir. "
+    },
+    {
+        "term": "kavram",
+        "desc": "Bir felsefi terim olan kavram, bir düşüncenin veya fikrin zihinde soyut bir şekilde temsil edildiği anlamına gelir. Kavramlar, düşünsel kategorilerdir ve belirli özellikleri veya nitelikleri temsil ederler. Dilin ve düşüncenin temel yapı taşlarıdır ve iletişimimizi anlamlı hale getirir."
+    },
+    {
+        "term": "anlam",
+        "desc": "Felsefe, gerçeklik, bilgi, varlık gibi temel soruları sorgulayan ve düşünce sistemleriyle ilgilenen bir disiplindir. Felsefe, insanın düşünme yeteneğini kullanarak dünyanın doğasını anlamaya ve anlamlandırmaya çalışır. Felsefenin amacı, evrenin, insanın ve bilginin doğasını anlama çabasıdır."
+    },
+    {
+        "term": "töz",
+        "desc": "Töz, var olan varlıkların temel, değişmez ve özünü ifade eder. Aristoteles'e göre her şeyin bir tözü vardır ve bu töz, nesnenin özünü oluşturur. Töz, bir varlığın gerçek anlamını ve özünü belirleyen temel nitelikleridir."
+    },
+    {
+        "term": "önerme",
+        "desc": "Önerme, bir düşüncenin ifade edildiği ve doğruluk ya da yanlışlık değerine sahip olan bir ifadedir. Önermeler, mantık ve felsefe alanlarında önemli bir role sahiptir ve doğru ya da yanlış olma özelliği üzerine tartışmalar yapılır. Önermeler, düşüncelerimizi ifade etmemizi ve birbirimizle iletişim kurmamızı sağlar."
+    },
+    {
+        "term": "aracılık",
+        "desc": "Aracılık, bir konuda iletişim kurarak veya yardımda bulunarak iki ya da daha fazla taraf arasındaki ilişkileri düzenleme ya da çözme sürecidir. Aracılar arasındaki iletişim, çözüm üretme ve uzlaşma sağlama gibi becerileri gerektirir. Aracılık, anlaşmazlık çözme ve işbirliği kurma amacıyla kullanılan etkili bir yöntemdir."
+    },
+    {
+        "term": "marjinal",
+        "desc": "Marjinal, belirli bir topluluk içindeki birey veya grupların ana akımdan farklı düşüncelere veya davranışlara sahip olmalarını ifade eder. Marjinal bireyler genellikle toplumun kabul ettiği normlardan sapabilirler ve alternatif bir perspektife sahip olabilirler. Bu terim genellikle toplumun dışında veya marjında yer alan insanları tanımlamak için kullanılır."
+    },
+    {
+        "term": "norm",
+        "desc": "Norm, toplum veya gruplar tarafından kabul edilen, uyulması gerektiği düşünülen, beklentilere uygun davranış veya değerler bütünüdür. Normlar, insanların bir arada yaşarken uyum sağlamaları ve toplumsal düzeni korumaları için önemlidir. Normlar, toplumun kültürel, ahlaki ve sosyal değerlerinin bir yansımasıdır."
+    },
+    {
+        "term": "normatif",
+        "desc": "Normatif, bir durumun ya da konunun nasıl olması gerektiği ile ilgili olan felsefi bir terimdir. Normatif açıdan ele alınan bir konu, ideal olan durumu veya ahlaki değerleri belirlemek amacıyla incelenir. Normatif açıklamalar, objektifliği ve gerçekliği değil, karar vermek için bir ölçüt veya standart sunmayı amaçlar."
+    },
+    {
+        "term": "konvansiyon",
+        "desc": "Konvansiyon, insanlar arasında belirli bir alanda kabul gören ve genellikle anlaşmalarla belirlenen kurallar ve normlardır. Konvansiyonlar, insanlar arasındaki iletişimi ve etkileşimi düzenler ve toplumsal düzenin oluşmasına katkı sağlar. Bireylerin bir arada yaşaması için uyumlu ve ortak hareket etmelerini sağlar."
+    },
+    {
+        "term": "kontrat",
+        "desc": "Kontrat, iki veya daha fazla taraf arasında yapılıp imzalanan ve belirli bir işlem, hizmet veya taahhüt üzerinde karşılıklı hak ve yükümlülükleri düzenleyen hukuki bir belgedir. Tarafların anlaşma sağladığı koşulların yazılı olarak ifade edildiği kontratlar, sözleşmenin daha güvenli bir şekilde uygulanmasını sağlar. Kontratlar, taraflar arasındaki ilişkinin güvence altına alınmasına ve anlaşmazlık durumunda hukuki destek sağlanmasına yardımcı olur."
+    },
+    {
+        "term": "sözleşme",
+        "desc": "Sözleşme, taraflar arasında anlaşmaya dayanan bir belge veya anlaşmadır. Yasal bir bağlayıcılığı vardır ve tarafların haklarını, sorumluluklarını ve taahhütlerini belirler. Sözleşmeler genellikle ticari veya hukuki ilişkilerde kullanılır."
+    },
+    {
+        "term": "düşünsellik",
+        "desc": "Düşünsellik, insanın düşünce süreçlerini ve düşünce yeteneklerini ifade eden bir terimdir. Düşünsellik, mantık, analitik düşünme, eleştirel düşünme gibi becerileri içerir ve kişinin düşüncelerini organize etme ve sorunları çözme yeteneğini yansıtır. Düşünsellik, zihinsel aktivitenin temel bir unsuru olarak kabul edilir."
+    },
+    {
+        "term": "sezgisellik",
+        "desc": "Sezgisellik, doğrudan deneyim ve iç güdülere dayalı olarak gerçekleştirilen bir bilme ve anlama şeklidir. Sezgilerimiz, akıl yoluyla ulaşamayacağımız bilgi ve anlayışlara ulaşmamızı sağlar. Sezgisel bilgi, akademik ve mantıksal düşünceye dayanmadan doğrudan ve hızlı bir şekilde ortaya çıkar."
+    },
+    {
+        "term": "kurgu",
+        "desc": "Kurgu, hayal gücünün ürünü olan, gerçeklikten bağımsız olarak yaratılan bir hikaye veya roman türüdür. Kurgu eserler, okuyucuyu fantastik dünyalara veya olaylara taşıyarak farklı deneyimler sunar. Söz konusu eserler, insan düşüncesi ve duyguları hakkında derinlemesine bir anlayış sağlayabilir."
+    },
+    {
+        "term": "kategori",
+        "desc": "Felsefe, insanın dünyanın doğası, gerçeklik, bilgi ve değer gibi temel sorunları üzerine düşünceler geliştirdiği bir disiplindir. Bilimsel yöntemlerle çözülemeyen, soyut ve metafizik alanlara odaklanır. Felsefi düşünce, insanın varoluşunu, ahlaki değerleri ve evrenin anlamını anlamaya yönelik soruları incelemeyi amaçlar."
+    },
+    {
+        "term": "kategorik",
+        "desc": "Kategorik, Immanuel Kant'ın felsefesinde yer alan bir kavramdır. Kant'a göre, ahlaki prensipler gibi evrenseldirler ve istisnasız olarak geçerlidirler. Kategorik ahlak, ahlaki hareketin evrensel ilkeler ve ahlaki değerlendirme temelinde yapılmasını savunur."
+    },
+    {
+        "term": "bilgi felsefesi",
+        "desc": "Bilgi felsefesi, bilginin doğasını, kaynağını, doğruluğunu ve sınırlarını inceleyen felsefi bir disiplindir. Bu disiplin, insanın nasıl bilgiye sahip olduğunu ve bilgiye ulaşmanın yöntemlerini ele alır. Bilgi felsefesi, epistemoloji olarak da adlandırılır."
+    },
+    {
+        "term": "monadoloji",
+        "desc": "Monadoloji, Gottfried Wilhelm Leibniz'in ortaya koyduğu bir felsefi teoridir. Bu teoriye göre gerçeklik, monad olarak adlandırılan indivisible varlıklardan oluşur. Her monad, kendi içinde kendini yöneten bir varlık olarak çalışır ve dış dünya ile etkileşimde bulunur. Bu teori, dünyayı anlamak ve açıklamak için kullanılan bir çerçeve sunar."
+    },
+    {
+        "term": "negativite",
+        "desc": "Negativite, olumsuz düşüncelere, duygulara ve davranışlara sahip olma durumudur. Pozitiflik yerine negatiflik gösterme eğilimi gösteren kişiler, genellikle şikayetçi, eleştirel ve karamsar olabilirler. Negativite, ruh halini etkileyebilir ve ilişkileri olumsuz yönde etkileyebilir."
+    },
+    {
+        "term": "öz",
+        "desc": "Öz, bir şeyin en temel, özüne ait ve değişmez niteliklerini ifade eder. Her şeyin arkasında yatan temel gerçeklik olarak da tanımlanabilir. Öz, varlıkların gerçek doğasını anlamaya ve anlamlandırmaya yardımcı olan kavramlardan biridir."
+    },
+    {
+        "term": "özgünlük",
+        "desc": "Özgünlük, bir şeyin diğerlerinden farklı, benzersiz ve orijinal olması durumudur. Özgünlük, kişinin kendi yaratıcılığını ve özgün düşünce yeteneğini gösterir. Özgünlük, insanların kendi kimliklerini ve farklılıklarını ifade etmelerine yardımcı olur."
+    },
+    {
+        "term": "pratik akıl",
+        "desc": "Pratik akıl, teorik bilginin pratiğe dönüşmesini sağlayan zihinsel bir yetenektir. Gerçek dünyadaki sorunlara çözüm bulma ve etkili kararlar alma becerisi ile ilgilidir. Pratik akıl, bilgiyi uygulama ve deneyimlerden elde edilen sonuçlara dayanarak doğru ve etkili bir şekilde hareket etme yeteneğini ifade eder."
+    },
+    {
+        "term": "rasyonalite",
+        "desc": "Rasyonalite, düşünme ve karar verme sürecinde mantığa dayalı olarak hareket etmeyi ifade eder. Bu, bilimsel yöntemlerin kullanıldığı, akılcı ve tutarlı bir yaklaşımı gerektirir. Rasyonalite, bireylerin eylemlerini analiz etmek ve en iyi sonuçlara ulaşmak için mantığa dayanan bir düşünce sürecini takip etmelerini teşvik eder."
+    },
+    {
+        "term": "sembol",
+        "desc": "Sembol, gerçeklik veya düşünceyi temsil etmek için kullanılan görsel, işitsel veya yazılı bir işarettir. Semboller, anlam, değer ve anlama katmanlarıyla doludur ve genellikle dilötesi bir şekilde anlamlandırılırlar. Semboller, iletişimde ortak anlaşmayla insanların arasında anlam paylaşımını sağlar."
+    },
+    {
+        "term": "sentez",
+        "desc": "Sentez, farklı düşüncelerin veya bileşenlerin bir araya getirilerek yeni bir bütün oluşturmasıdır. Bu süreçte özgün ve yenilikçi çözümler ortaya çıkabilir. Sentez, değişik perspektiflerden gelen bilgilerin birleştirilerek daha kapsamlı bir anlam oluşturmasını sağlar."
+    },
+    {
+        "term": "tabiat",
+        "desc": "Tabiat, evrende var olan her şeyin doğal düzeni, işleyişi ve varoluşun temel kaynağıdır. Varlıkların doğal yasalar ile uyum içinde oluşu ve gelişimiyle ilişkilendirilir. Tabiat, insanların dışında farklı canlıların ve nesnelerin de içinde bulunduğu geniş bir yaşam alanını kapsar."
+    },
+    {
+        "term": "ussal",
+        "desc": "Ussal, akılcı veya mantıksal anlamına gelir. Bu felsefi terim, bir düşünce veya inancın mantığa, akla ve rasyonelliğe dayandığı anlamına gelir. Ussal bir yaklaşım, mantık ve akıl yürütme süreçlerini kullanarak doğru ve tutarlı sonuçlara ulaşmayı amaçlar."
+    },
+    {
+        "term": "varlık felsefesi",
+        "desc": "Varlık felsefesi, var olanın temel niteliklerini ve varoluşun hakikatini araştıran felsefe dalıdır. Bu dalda, varlığın kökeni, doğası ve anlamı gibi sorular üzerinde yoğunlaşılır. Varlık felsefesi, insanın dünya ve kendisiyle olan ilişkisini anlamak ve evrensel gerçekliği kavramak için önemli bir çerçeve sunar."
+    },
+    {
+        "term": "yad",
+        "desc": "Yad, felsefi bir terim olarak unutulma, hafızanın zayıflaması ve kayıp anlamına gelir. İnsanlar ve olaylar zamanla yad olabilir, toplumsal hafıza zayıflayabilir ve geçmiş hatıralar unutulabilir. Yad, geçmişin özgünlüğünü ve önemini hatırlatırken, zamana karşı mücadeleyi temsil eder."
+    },
+    {
+        "term": "yabancı",
+        "desc": "Yabancı: Bir kimse veya nesnenin belirli bir toplum, kültür veya yerleşim alanında kökeni olmayan, o yerde doğal olarak bulunmayan veya o topluma ait olmayan durumunu ifade eder. Yabancı olma durumu genellikle farklılıkların ve dışlanmanın bir sonucu olarak algılanabilir. Yabancılık, kültürler arası etkileşim ve entegrasyon süreçlerinde önemli bir kavramdır."
+    },
+    {
+        "term": "yansıtma",
+        "desc": "Yansıtma, bir düşüncenin ya da fikrin başka bir düşünceye ya da fikre yansıtılması, aktarılmasıdır. Zihinsel bir eylem olarak kabul edilir ve insanlar tarafından kullanılır. Yansıtma, düşünce sürecinde önemli bir rol oynar ve kişinin farkındalığını arttırır."
+    },
+    {
+        "term": "yansızlık",
+        "desc": "Yansızlık, tarafsızlık ve objektiflik ilkesine dayalı olarak olayları veya durumları değerlendirmek ve yargılamak anlamına gelir. Yansızlık, kişisel ön yargıların veya duygusal etkilerin dışında, gerçeklerin ve mantığın öncelendiği bir yaklaşımı ifade eder. Yansızlık, adil ve dengeli bir perspektif sağlar."
+    },
+    {
+        "term": "ütopya",
+        "desc": "Ütopya, mükemmel bir toplum veya ideal bir dünya tasarımını ifade eder. Utopik düşünceler genellikle gerçekleştirilemez olsa da insanların daha iyi bir yaşamı hayal etmesine ve mevcut düzeni eleştirmesine yardımcı olur. Thomas More'un Ütopya adlı eseri, bu kavramın en ünlü örneklerindendir."
+    },
+    {
+        "term": "ıstırap",
+        "desc": "Istırap, yoğun acı ve zorluklarla dolu bir duygudur. İnsanların hayatlarında karşılaştıkları travma, kayıplar veya aşırı stres durumlarında hissedebilirler. Istırap, insanların duygusal ve psikolojik olarak çektiği acıların bir ifadesidir ve insanların hayatta karşılaştıkları zorlukları anlamalarını sağlar."
+    },
+    {
+        "term": "işlevcilik",
+        "desc": "İşlevcilik, bir şeyin değerini veya doğruluğunu kullanışlılığı ve pratik sonuçlarına dayanarak belirlemeyi savunan bir felsefi yaklaşımdır. İşlevselciler, bir şeyin amacına veya hedefine nasıl hizmet ettiğini ve sonuçlarıyla ne gibi etkiler yarattığını önemser. Bu perspektife göre, bir şeyin değeri ve doğruluğu, onun işlevselliği ve pratik karşılığına bağlıdır."
+    },
+    {
+        "term": "form",
+        "desc": "Form, Platon tarafından ortaya atılan bir felsefi kavramdır. Platon'a göre, gerçeklik idealar dünyasında bulunan saf formlarla temsil edilir. Formlar, maddi dünyadaki nesnelerin değişkenlik ve geçicilikten kurtulmuş, asıl ve özsel halleridir."
+    },
+    {
+        "term": "formel",
+        "desc": "Formel, bir matematiksel ifade ya da dizi halinde yazılmış bir kural veya düzenlemeyi ifade eder. Genellikle semboller, matematiksel operatörler ve değişkenler kullanılarak oluşturulur ve belirli bir matematiksel ilişkiyi tanımlamak veya hesaplama yapmak için kullanılır. Formeller, bilim, mühendislik ve matematik gibi disiplinlerde sıklıkla kullanılır."
+    },
+    {
+        "term": "felsefi antropoloji",
+        "desc": "Felsefi antropoloji, insan doğasını ve insanın varoluşunu anlamaya yönelik bir felsefe dalıdır. İnsanın bilinç, özgür irade, ahlak ve toplumsal ilişkiler gibi konularını ele alır. Felsefi antropoloji, insanın ne olduğunu ve nasıl bir anlam dünyasına sahip olduğunu anlamaya çalışır."
+    },
+    {
+        "term": "gerçeküstü",
+        "desc": "Gerçeküstü, gerçeklikten farklı bir boyuta veya düzleme ait olan; hayal gücü, rüyalar ve fantastik unsurlarla dolu olan bir kavramdır. Gerçeküstü, gerçeklik sınırlarının dışına çıkmak ve olağandışı bir deneyim sunmak için kullanılan bir ifadedir. Gerçeklik ile hayal gücünün kesiştiği noktayı temsil eder."
+    },
+    {
+        "term": "görecelik",
+        "desc": "Görecelik, herhangi bir olgunun, durumun veya değerin, kişiden kişiye değişebileceğini ifade eden felsefi bir kavramdır. Özneldir ve bireye bağlıdır. Gerçeklik, bakış açılarına göre değişebilir."
+    },
+    {
+        "term": "hikmet",
+        "desc": "Hikmet, bilgelik ve anlayışı ifade eden bir felsefi terimdir. Hikmet, deneyim ve düşünceyle kazanılan derin bilgiyi ifade eder. Hikmet, insanların doğru kararlar alabilmesi ve yaşamda anlam bulabilmesi için gereklidir."
+    },
+    {
+        "term": "hipostaz",
+        "desc": "Hipostaz, bir varlığın veya kavramın gerçek ve temel yapısını ifade eden, onu diğerlerinden ayıran öz niteliklerin birleşimi anlamına gelir. Bir varlığın hipostazı, onun özünü, varoluşunu ve karakterini tanımlar. Hipostaz, bir şeyin derinliğine inerek onun gerçek doğasını ve özünü anlamaya çalışmayı temsil eder."
+    },
+    {
+        "term": "özdeşlik",
+        "desc": "Felsefede özdeşlik, bir şeyin kendisiyle aynı olması anlamına gelir. İki şey arasında özdeşlik, birebir bir denklik veya aynılık ilişkisi ifade eder. Özdeşlik kavramı, bir şeyin diğerinden ayrı olduğunu ve kendine özgü olduğunu kabul etmek yerine, her şeyin temel bir birliği olduğunu öne sürer."
+    },
+    {
+        "term": "insanbilim",
+        "desc": "İnsanbilim, insanın doğasını, davranışlarını, düşüncelerini ve toplumsal ilişkilerini anlamaya çalışan bir disiplindir. İnsanbilim, sosyoloji, psikoloji, antropoloji gibi alanları kapsar ve insanın varlığının derinliklerine inmeyi hedefler. İnsanbilim, insanın evrensel sorunlarına cevaplar arar ve insanın doğasını anlama çabası içerir."
+    },
+    {
+        "term": "insanmerkezcilik",
+        "desc": "İnsanmerkezcilik, insanın her şeyin merkezinde olduğu bir dünya görüşünü ifade eder. Bu perspektife göre, insanın ihtiyaçları, değerleri ve deneyimleri en önemli faktörlerdir ve diğer canlılar ile doğa bu ihtiyaçlara hizmet etmek için varolan unsurlardır. Bu anlayış, insanın kendisini evrenin en önemli varlığı olarak görmesine dayanır."
+    },
+    {
+        "term": "kaçınılmazlık",
+        "desc": "Kaçınılmazlık, bir olayın veya durumun önlenemez, kaçınılamaz olduğunu ifade eder. Hiçbir müdahale veya çaba sonucunda değiştirilemeyen, gerçekleşmesi çeşitli nedenlerle kesin olan bir durumu ifade eder. Kaçınılmazlık, insan iradesi ya da kontrolü dışında olan bir kader anlayışını da içerir."
+    },
+    {
+        "term": "kapsam",
+        "desc": "Kapsam, bir düşünce ya da kavramın anlamını belirleyen ve içeriğini ifade eden sınırları ifade eder. Bir felsefi terim olarak kapsam, bir düşüncenin veya teorinin hangi durumların veya olayların içinde geçerli olduğunu belirleyen sınırları belirler. Kapsamın belirlenmesi, bir kavramın ne kadar genel veya ne kadar spesifik olduğunu anlamamızı sağlar."
+    },
+    {
+        "term": "katharsis",
+        "desc": "Katharsis, Aristoteles'in kullandığı bir terim olup, duygu veya ruh halinde bir tür arınma ve temizlenmeyi ifade eder. Bir kişinin sanat veya drama yoluyla duygusal bir deneyim yaşaması ve bu deneyim sonucunda negatif duygularından arınması katharsis olarak adlandırılır. Bu süreç, izleyici veya katılımcının psikolojik bir rahatlama ve iyileşme sağlamasını amaçlar."
+    },
+    {
+        "term": "klasik",
+        "desc": "Klasik, uzun bir süre boyunca kabul görmüş ve etkili olmuş olan, zamanla değerini kaybetmemiş olan bir eseri veya düşünceyi ifade eder. Klasik eserler ve düşünceler, genellikle evrensel değerlere odaklanır ve zamanla değişmeyen, kalıcı bilgiler sunar. Klasikler, kültürel mirasımızın önemli bir parçasıdır."
+    },
+    {
+        "term": "kod",
+        "desc": "Kod, belli bir amaca hizmet eden semboller ve talimatlar kümesidir. Bilgisayar programcılığında kullanılan kodlar, bir programın işleyişini belirleyen yazılım parçalarıdır. Kodlar, okunabilir ve anlaşılabilir bir formatta olmalıdır."
+    },
+    {
+        "term": "kolektif bilinç",
+        "desc": "Kolektif bilinç, bireylerin bir araya gelerek oluşturdukları bir bilinçtir. Grup veya toplum içinde yaşanan deneyimler, değerler ve inançlar, kolektif bilincin oluşumunu etkiler. Bu bilinç, ortak bir anlayış ve kültür oluşturma, grup identitesi ve kolektif davranışlar üzerinde etkilidir."
+    },
+    {
+        "term": "konservatizm",
+        "desc": "Konservatizm, değişimi istikrarsızlık olarak görerek, mevcut değerlere ve kurumlara bağlılığı vurgulayan bir politik felsefedir. Geleneğe ve sürekliliğe önem verirken, radikal değişimleri reddeder. Kısacası, konservatizm, toplumun stabilitesini ve devamlılığını korumayı amaçlar."
+    },
+    {
+        "term": "konstitüsyonalizm",
+        "desc": "Konstitüsyonalizm, devletin yönetimi için anayasaya dayalı bir sistemdir. Bu sistemde devletin yetkileri ve sınırları anayasal metinle belirlenir. Hukukun üstünlüğü, birey hakları ve demokratik değerler konstitüsyonalizmin temel prensipleridir."
+    },
+    {
+        "term": "kozmogoni",
+        "desc": "Kozmogoni, evrenin kökenini ve nasıl oluştuğunu inceleyen felsefi bir disiplindir. Bu terim, evrenin varoluşunu açıklamak için mitoloji, bilim ve felsefe arasında bir bağlantı kurar. Kozmogoni, evrenin başlangıcı ve gelişimi hakkında tartışmaları içerir."
+    },
+    {
+        "term": "kriz",
+        "desc": "Kriz, beklenmedik bir olay veya durumdan kaynaklı bir dönemeçtir. Genellikle zorluklar, belirsizlik ve risklerle birlikte gelir. Krizler, mevcut düzeni sarsar ve değişimin kaçınılmaz olduğunu gösterir. Krizler, insanların güçlüklere karşı adaptasyon becerilerini sınar ve yeni fırsatlar yaratır."
+    },
+    {
+        "term": "kültüralizm",
+        "desc": "Kültüralizm, bir toplumun kültürel değerlerini öne çıkaran bir felsefi yaklaşımdır. Kültürel çeşitlilik ve farklılıkların önemini vurgular. Bireylerin ve grupların kültürel kimliklerini korumaya ve geliştirmeye odaklanır."
+    },
+    {
+        "term": "laiklik",
+        "desc": "Laiklik, devletin dini inançlardan bağımsız olarak tarafsız bir duruş sergilemesini ifade eder. Bu ilke, herkesin kendi inancını özgürce yaşamasını sağlar ve dinler arası eşitliği temel alır. Laiklik, kamusal alanda dini etkileşimlerin sınırlanmasıyla toplumsal barışın ve çeşitliliğin korunmasını amaçlar."
+    },
+    {
+        "term": "liberalizm",
+        "desc": "Liberalizm, bireysel özgürlükleri ve sınırlı devlet müdahalesini savunan bir siyasi ve felsefi düşünce akımıdır. İnsan hakları, adalet, eşitlik ve serbest piyasa ekonomisi gibi ilkeleri temel alır. Bireylerin kendi seçimlerini özgürce yapabildiği ve farklı düşüncelerin toleransla karşılandığı bir toplum idealini benimser."
+    },
+    {
+        "term": "maddecilik",
+        "desc": "Maddecilik, temel olarak her şeyin madde temelli olduğunu savunan bir felsefi yaklaşımdır. Maddecilik, gerçekliği sadece maddi cisimler ve doğa kanunlarıyla açıklamaya çalışır. Bu görüşe göre, zihin, duygular ve ruh gibi kavramlar da maddenin bir ürünüdür ve onlara ayrı bir varlık atfetmez."
+    },
+    {
+        "term": "mantık felsefesi",
+        "desc": "Mantık felsefesi, doğru düşünme ve akıl yürütme kurallarını inceler. Bilimsel ve matematiksel bir yaklaşımla, doğruluk ve yanlışlık ilişkilerini analiz eder. Bir düşüncenin önerme veya argüman olarak nasıl doğrulanabilir veya çürütülebileceğini araştırır."
+    },
+    {
+        "term": "mantıksal pozitivizm",
+        "desc": "Mantıksal pozitivizm, bilginin sadece gözlemlenebilir gerçeklere dayanması gerektiğini savunan felsefi bir akımdır. Bilimsel yöntemle elde edilen bilgiye değer verir ve metafiziksel, deneysiz konuları reddeder. Akıl yürütme ve mantığı esas alarak gerçeklerin tespit edilmesini hedefler."
+    },
+    {
+        "term": "marksizm",
+        "desc": "Marksizm, Karl Marx ve Friedrich Engels tarafından geliştirilen bir düşünce sistemi ve toplumsal-kuramsal bir yaklaşımdır. Bu yaklaşım, sınıf mücadelesi temelinde kapitalizmin eleştirilme ve aşılma çabasını içerir. Ekonomik şartların toplum ve tarih üzerinde belirleyici olduğunu savunur ve adil, sınıfsız bir toplumun hedeflenmesini amaçlar."
+    },
+    {
+        "term": "materyalist diyalektik",
+        "desc": "Materyalist diyalektik, kendine özgü bir felsefi yaklaşım olup, maddenin temel olduğunu ve evrendeki değişimi madde üzerinden açıklamayı savunan bir düşünce sistemidir. Olumsuzluk, çelişki ve hareket gibi kavramlara odaklanırken, tarihsel ve toplumsal gelişimi de maddeci bir perspektifle analiz etmeyi amaçlar."
+    },
+    {
+        "term": "mekanizm",
+        "desc": "Mekanizm, bir sistemin içindeki hareketin veya olayın nasıl gerçekleştiğini açıklamak için kullanılan bir terimdir. Bu terim, bir süreç veya mekanik düzenek, bir organizma veya bir kuruluşun işleyişini ifade eder. Mekanizmalar, bir şeyin nasıl çalıştığını anlamamıza yardım ederek bilimsel ve felsefi açıklamalar sunar."
+    },
+    {
+        "term": "meta-etik",
+        "desc": "Meta-etik, etiksel konuların doğası, kaynağı ve geçerliliği üzerine felsefi bir araştırma alanıdır. Meta-etik, etiksel açıklamaları analiz ederek ve etik normların objektifliği ya da özneliği gibi konuları tartışarak etik bilgisine ilişkin soyut düşünceler üretir."
+    },
+    {
+        "term": "meta-ontoloji",
+        "desc": "Meta-ontoloji, varlığın niteliği ve özellikleri üzerine düşünme sürecidir. Bu felsefi disiplin, varlığın temel yapıları, ilişkileri ve gerçekliği araştırır. Meta-ontoloji, ontolojik soruları ve kavramları sorgular ve bunların doğruluğunu veya geçerliliğini araştırır."
+    },
+    {
+        "term": "mimesis",
+        "desc": "Mimesis, bir sanat eserinin gerçek dünyayı taklit etme amacını ifade eder. Sanatçının yaratıcılığını kullanarak doğayı veya nesneleri yansıtmaya çalışmasıdır. Mimesis, sanatta gerçekçilik ve tartışmalı bir estetik ilkedir."
+    },
+    {
+        "term": "modalite",
+        "desc": "Modalite, bir nesnenin ya da olayın varoluş biçimini veya bir düşüncenin gerçeklik derecesini ifade eder. Bir nesnenin veya olayın olma olasılığı veya gerçeklik derecesiyle ilgili bir kavramdır. Bir düşüncenin veya ifadenin ne derece kesin, olası veya zorunlu olduğunu ifade eder."
+    },
+    {
+        "term": "model",
+        "desc": "Felsefe, insanın düşünce, bilgi ve gerçeklikle ilgili sorulara sistematik olarak yaklaşma disiplinidir. Felsefi sorunlar, evrenin doğası, bilgi kaynakları, ahlaki değerler ve insanın varoluşsal sorunları gibi çeşitli konuları kapsar. Felsefe, kritik düşünce becerilerini geliştirerek anlam arayışına katkıda bulunur."
+    },
+    {
+        "term": "modernizm",
+        "desc": "Modernizm, 19. ve 20. yüzyıllarda ortaya çıkan bir felsefi akımdır. Geleneksel değerleri ve kuralları sorgular, yenilikçilik ve ilerleme üzerine odaklanır. İnsanlığın teknoloji, bilim ve sanat gibi alanlarda ilerlemesini teşvik eder."
+    },
+    {
+        "term": "mücadele",
+        "desc": "Mücadele, bir hedefe ulaşmak amacıyla karşılaşılan zorluklara karşı direnç göstermeyi ifade eder. İrade, azim ve çaba gerektiren mücadele, kişinin kendini geliştirmesine, engelleri aşmasına ve başarıya ulaşmasına yardımcı olur. Mücadele, insanın hayatta karşılaştığı zorluklarla başa çıkma ve kendini aşma sürecidir."
+    },
+    {
+        "term": "neo-platonizm",
+        "desc": "Neo-Platonizm, Antik Yunan filozofu Platon'un felsefesine dayanan ve Orta Çağ'da önemli bir etkisi olan bir felsefi akımdır. Bu akımda, gerçekliğin temelinde bir zihin veya ruh olduğu ve madde dünyasının bir yansıması olduğu düşünülür. Aydınlanmaya ve spiritüel gelişime ulaşmanın yolu ise materyal değil, ruhsal bir yükseliştir."
+    },
+    {
+        "term": "normativizm",
+        "desc": "Normativizm, ahlaki değerlerin veya normatif ilkelerin varlığını ve önemini savunan bir felsefi yaklaşımdır. Etik ve ahlaki sorunlar üzerine odaklanır ve insan eylemlerini değerlendirirken objektif bir ölçüt veya standart olduğunu kabul eder. Normativizme göre, doğru veya yanlış olan eylemler, belirlenen normların ve değerlerin yanında değerlendirilir."
+    },
+    {
+        "term": "objektivizm",
+        "desc": "Objektivizm, gerçeklik ve bilginin nesnel bir temele dayandığı felsefi bir yaklaşımdır. Bireyin duyusal deneyimlerinden ve mantıksal çıkarımlardan bağımsız olarak, evrenin gerçekliği ve doğrularının objektif bir şekilde var olduğunu savunur. Bireyin kendi çıkarlarını ön planda tutmasını teşvik eder ve bireyin özgür iradesini korumasını vurgular."
+    },
+    {
+        "term": "ontolojik argüman",
+        "desc": "Ontolojik argüman, varlığın var olduğunu savunan bir felsefi argümandır. Bu argüman, genellikle Tanrı'nın varlığını kanıtlamak için kullanılır. Argüman, varlık kavramının kendisinden yola çıkarak mutlak varlığın var olduğunu öne sürer."
+    },
+    {
+        "term": "ontolojik bağlam",
+        "desc": "Ontolojik bağlam, felsefede varlığın doğasını ve gerçekliğin temellerini inceleyen disiplindir. Bu bağlamda varlığın ne olduğu, nasıl olduğu ve nasıl anlaşılacağı üzerine odaklanılır. Ontolojik bağlam, felsefede varoluş, varlık ve varoluşsal soruların tartışıldığı alan olarak da kabul edilir."
+    },
+    {
+        "term": "özdeşleşim",
+        "desc": "Özdeşleşim, bir bireyin başka bir birey ya da gruba ait özellikleri kendine mal etmesi veya bir bireyin başka bir bireye veya gruba benzerlik duygusuyla yaklaşmasıdır. Bu süreç, bireyin kimlik oluşumunda ve sosyal ilişkilerinde önemli bir rol oynar. Özdeşleşme, benzerlik hissiyatını güçlendirerek grup bağlarını ve sosyal bağları artırabilir."
+    },
+    {
+        "term": "paradigma",
+        "desc": "Paradigma, bir disiplinin veya bilim dalının temelini oluşturan, kabul gören kurallar, norm ve değerler sistemidir. Paradigmalar, bir düşünce yapısını ve buna bağlı olarak sorunların çözülmesi için kullanılan yöntemleri belirler. Paradigmalar, bilimsel araştırmaların temelini oluşturarak bilimsel gelişimi yönlendirir."
+    },
+    {
+        "term": "parantez",
+        "desc": "Parantez, bir metinde belirli bir düşünceyi veya bilgiyi ayrıntı olarak eklemek için kullanılan işaretlerdir. İçerdikleri bilgi, ana metinden bağımsızdır ve genellikle kısmi veya tamamen atlanabilir. Parantezler, metne ek bir açıklama veya vurgu katmak amacıyla sıklıkla kullanılır."
+    },
+    {
+        "term": "parçacık",
+        "desc": "Felsefede parçacık, fiziksel ve ontolojik olarak bir bütünden kendini ayıran, ayrı bir varlık olarak kabul edilen temel unsur veya birimi ifade eder. Parçacıklar, madde ve enerjinin yapısını oluştururken, birçok felsefi düşünceye de temel teşkil eder. Felsefede parçacık, mikro dünyanın doğasını anlamaya çalışırken kullanılan bir kavramdır."
+    },
+    {
+        "term": "performatif",
+        "desc": "Performatif, bir söylemin, gerçekleştirilmek istenen eylemi ya da durumu ifade etmek için kullanıldığı bir dil felsefesi kavramıdır. Bu tür bir ifade, konuşurken söylenen şeylerin eylem haline dönüştürülmesini sağlar. Örneğin, sizi burada evlendireceğim ifadesiyle evlilik gerçekleştirilmiş olur."
+    },
+    {
+        "term": "fenomen",
+        "desc": "Fenomen, insanın deneyimlediği duyusal olay ya da şeyleri ifade eder. Gözlemlenebilir, algılanabilir ve deneyimlenebilir olası bir durum veya olgu olarak da tanımlanabilir. Fenomenler, insanların bilincinde beliren ve anlamlandırılan deneyimlerdir."
+    },
+    {
+        "term": "fenomenalizm",
+        "desc": "Fenomenalizm, gerçeklik anlayışında fenomenlerin önemini vurgular. Bu görüşe göre, gerçeklik sadece duyu organlarımızla algıladığımız fenomenlerden ibarettir. Gerçek varlıkların varolup olmadığı konusunda agnostik bir yaklaşım sergiler."
+    },
+    {
+        "term": "fizikselizm",
+        "desc": "Fizikselizm, tüm varlıkların fiziksel süreçlerle açıklanabileceğini savunan bir felsefi görüştür. Bu yaklaşım, zihin ve bilincin de temelde nörofizyolojik süreçlerden kaynaklandığını öne sürer. Fizikselizm, maddenin temel olduğunu ve her şeyin fiziksel yasalarla açıklanabileceğini savunur."
+    },
+    {
+        "term": "praksis",
+        "desc": "Praksis, teorik düşüncelerin pratik hayata uygulanmasıdır. Felsefede zihinde oluşturulan fikirlerin eyleme dönüştürülerek gerçekleştirilmesini ifade eder. Praksis, insanın düşündüğü değerleri ve idealleri hayata geçirme sürecidir."
+    },
+    {
+        "term": "pratik",
+        "desc": "Felsefede pratik, bir düşüncenin veya teorinin uygulamaya dönüştürülmesini ifade eder. Pratik, teorik bilginin hayata geçirilerek somut sonuçlar elde edilmesini sağlar. Ayrıca, pratik felsefe insanın eylemlerini yönlendiren değerlerin ve ahlaki ilkeliklerin tartışılmasını da içerir."
+    },
+    {
+        "term": "problematik",
+        "desc": "Problematik, bir meseleyi çözümü zor veya karmaşık hale getiren özellik veya durumu ifade eder. Bu terim, bir konunun çeşitli boyutlarının incelenmesi gerektiğini ve çeşitli sorunları içerdiğini vurgular. Problematik, bir konunun tartışma ve analiz sürecinde ortaya çıkan zorlukları belirtir."
+    },
+    {
+        "term": "proleter",
+        "desc": "Proleter, sosyalist bir terimdir ve genellikle işçi sınıfını ifade eder. Kapitalist üretim ilişkileri içinde emek gücünü satan ve üretim araçlarına sahip olmayan işçiler proleter olarak adlandırılır. Proleterler, emeğin sömürülmesine maruz kalan ve ekonomik güçsüzlüğüyle tanımlanan bir sınıf olarak kabul edilir."
+    },
+    {
+        "term": "psikoanaliz",
+        "desc": "Psikoanaliz, Sigmund Freud tarafından geliştirilen bir terapi yöntemi ve psikoloji teorisi olarak kullanılmaktadır. Bu terim, bilinçdışı süreçlerin, bilinçle ilişkisini ve kişilik gelişimini incelerken, bilinçdışı içeriklerin analizini vurgular. Psikoanaliz, insan davranışlarının kökenlerini çözümlemeye ve anlamaya çalışır."
+    },
+    {
+        "term": "rasyonalizasyon",
+        "desc": "Rasyonalizasyon, gerçeği anlamak ve açıklamak için mantıklı, akılcı ve doğal açıklamalar kullanma sürecidir. İnsanlar, deneyimlerden ve duygulardan ziyade lojik düşünce ve akıl yürütme yoluyla bilgi edinmeye yönelirler. Rasyonalizasyon, bilim, matematik ve felsefe gibi disiplinlerde önemli bir yer tutar."
+    },
+    {
+        "term": "realizasyon",
+        "desc": "Realizasyon terimi, bir şeyin gerçekleştirilmesi veya tamamlanması anlamına gelir. Felsefede ise, bir düşüncenin veya fikrin pratik hayata geçirilmesini ifade eder. Realizasyon, düşünce ve eylem arasındaki bağlantının sağlandığı ve ideallerin gerçekleştirmesi için gerekli olan süreci temsil eder."
+    },
+    {
+        "term": "referans",
+        "desc": "Referans, bir konuya ilişkin doğrulama veya kanıt sağlamak amacıyla başvurulan kaynak veya bilgiye denir. Bu kaynaklar, kitaplar, makaleler, uzman görüşleri veya deney sonuçları olabilir. Referanslar, bir fikrin doğruluğunu veya geçerliliğini desteklemek ve tartışma veya çalışmalarımızı güçlendirmek için kullanılır."
+    },
+    {
+        "term": "relativizm",
+        "desc": "Relativizm, herhangi bir konunun veya inancın mutlak doğruluğunun olmadığını savunan felsefi bir görüştür. Relativizm, kişisel, kültürel veya tarihsel bağlamlara göre değişen değerler ve doğrular üzerine odaklanır. Relativizme göre, herkesin farklı bir bakış açısı olduğu ve bu bakış açılarının eşit derecede geçerli olduğu kabul edilir."
+    },
+    {
+        "term": "reproduksiyon",
+        "desc": "Reproduksiyon, bir nesnenin ya da resmin orijinalinin aynısı ya da benzeri bir şekilde yeniden üretilmesidir. Bu, genellikle sanat eserlerinin kopyalanmasında kullanılan bir yöntemdir. Reproduksiyonlar, orijinalin detaylarını da koruyarak daha fazla kişiye ulaşmasını sağlar."
+    },
+    {
+        "term": "retorik",
+        "desc": "Retorik, sözlü veya yazılı iletişimde etkileyici ve ikna edici bir şekilde konuşma ve yazma yöntemlerini inceleyen bir disiplindir. Kelimelerin ve argümanların kullanımı, duygu ve mantık arasındaki denge, hitap edilen kitleyi etkileme stratejileri gibi konuları araştırır. Etkili iletişim becerileri kazandırarak insanların düşüncelerini etkilemeyi ve ikna etmeyi hedefler."
+    },
+    {
+        "term": "sağduyu",
+        "desc": "Sağduyu, kişinin doğal olarak sahip olduğu akıl ve mantık yürütme yeteneğidir. Gerçekçi düşünmeyi, akılcı kararlar vermeyi ve olaylara objektif bir şekilde yaklaşmayı sağlar. Sağduyu, duygusal etkilerden bağımsız olarak doğru ve uygun olanı değerlendirmeyi sağlar."
+    },
+    {
+        "term": "sanat felsefesi",
+        "desc": "Sanat felsefesi, sanatın doğasını, işlevini ve değerini inceleyen bir felsefe dalıdır. Sanatın estetik deneyime olan katkısını araştırır ve sanatın insan yaşamında nasıl bir rol oynadığına odaklanır. Sanat felsefesi, sanatın evrensel ve özgün olanı bir araya getirerek insan düşüncesine ve duygusal deneyimine derinlik ve anlam katma amacını taşır."
+    },
+    {
+        "term": "sanrı",
+        "desc": "Sanrı, gerçek olmayan veya gerçekçi olmayan inançlar veya düşüncelerdir. Kişi, sanrılarına tutkulu bir şekilde inanabilir ve onlara dayanarak davranabilir. Sanrılar genellikle bir zihinsel hastalığın, özellikle şizofreninin bir semptomudur."
+    },
+    {
+        "term": "saplantı",
+        "desc": "Saplantı, bireyin belirli bir düşünce, duygu veya davranışa aşırı ve kontrol edilemeyen bir şekilde takılması olarak tanımlanır. Kişi, saplantılı düşünceler ve eylemler etrafında yoğun bir şekilde döner ve bu düşünceleri sürekli olarak tekrar eder. Saplantılar, genellikle kaygı, korku veya saplantılı takıntılarla ilişkilidir."
+    },
+    {
+        "term": "sıfat",
+        "desc": "Sıfat, bir ismi veya zamiri nitelendirmek için kullanılan kelime veya kelime grubudur. Sıfatlar, nesnelerin özelliklerini, durumlarını veya niteliklerini belirtmek veya tanımlamak amacıyla kullanılır. Örneğin, güzel, eski, mavi gibi kelimeler sıfatlardır."
+    },
+    {
+        "term": "sıkıntı",
+        "desc": "Sıkıntı, bir insanın içinde bulunduğu rahatsızlık, endişe ve huzursuzluk hali olarak tanımlanabilir. Genellikle zorlu durumlar, sorunlar veya belirsizliklerle karşılaşıldığında ortaya çıkar. Sıkıntı, kişinin ruhsal ve fiziksel olarak rahatsız hissetmesine neden olabilir."
+    },
+    {
+        "term": "simüle",
+        "desc": "Simüle terimi, gerçekleştirilmek istenen bir durumu veya olayı taklit etmek veya modellenmek anlamına gelir. Bu terim genellikle bilim ve teknoloji alanlarında kullanılır. Simülasyonlar, gerçek dünyadaki deneyimleri yeniden inşa etmek veya keşfetmek için kullanılır."
+    },
+    {
+        "term": "sinizm",
+        "desc": "Sinizm, yaşama ve dünyaya umursamaz bir tutumla yaklaşan bir felsefi akımdır. Herhangi bir şeye inanç duymamayı savunan sinikler, hayatın anlamsız olduğunu düşünerek ironi ve alayla yaklaşırlar. Sinizm, toplumdaki çelişkileri ve yanlışları eleştiren bir bakış açısı sunar."
+    },
+    {
+        "term": "sismografi",
+        "desc": "Sismografi, depremlerin kaydedilmesi ve ölçülmesi amacıyla kullanılan bir cihazdır. Sismik dalgaların hareketini algılayarak depremin büyüklüğünü ve merkezini belirler. Bu sayede deprem bilimine önemli veriler sağlar."
+    },
+    {
+        "term": "sıçrama",
+        "desc": "Sıçrama, bir konudan diğerine hızlı ve aniden geçiş yapmak anlamına gelir. Felsefede ise, düşüncelerdeki sıçramaları ifade eder. Bu, bir fikirden diğerine mantıksal bağlantı olmadan atlayarak yeni bir bakış açısı veya çözüm bulmaya yönelik bir yaklaşımdır."
+    },
+    {
+        "term": "siyaset felsefesi",
+        "desc": "Siyaset felsefesi, siyasi düşünce ve pratikleri düşünsel bir temelde analiz eden bir felsefe dalıdır. Siyasetin doğasını, amaçlarını ve etik değerlerini incelerken, politik kurumlar, güç ilişkileri ve toplumsal adalet gibi konular üzerinde odaklanır. Siyaset felsefesi, demokrasi, özgürlük, eşitlik gibi temel kavramları da ele alır."
+    },
+    {
+        "term": "somut",
+        "desc": "Somut, duyularla algılanabilen, elle tutulup gözle görülebilen veya deneyimlenebilen varlıkları ifade eder. Felsefede ise somut kavram, gerçekliği ve doğal dünyayı temsil eden nesneleri ifade ederken, soyut kavramlar gerçek dünyada var olmayan, zihinde ve düşüncede var olan kavramları ifade eder."
+    },
+    {
+        "term": "soyut",
+        "desc": "Soyut, somut olmayan düşünce ve kavramları ifade eden bir terimdir. Gerçeklikten bağımsız olarak var olan ve zihin dünyasında varlığını sürdüren fikirler, duygular veya idealler soyuttur. Soyut kavramlar, genellikle somut bir şekilde görülemeyen veya dokunulamayan şeyleri ifade etmek için kullanılır."
+    },
+    {
+        "term": "spekülasyon",
+        "desc": "Spekülasyon, belirsizlik veya eksik bilgiye dayalı tahminler yapma eylemidir. Genellikle finansal piyasalarda gerçekleşir ve yüksek risk içerir. Spekülasyon, kazanç elde etmek için fiyat dalgalanmalarını tahmin etmeyi amaçlar."
+    },
+    {
+        "term": "statüko",
+        "desc": "Statüko, bir durumun mevcut hâlinin devam etmesini ifade eden bir terimdir. Değişimin olmadığı, sabit bir düzen veya duruş anlamına gelir. Mevcut durumun korunması veya değişimin engellenmesine dair bir anlam taşır."
+    },
+    {
+        "term": "strateji",
+        "desc": "Strateji, belirli bir hedefe ulaşmak için planlama ve düşünme sürecini içeren bir yöntemdir. Strateji, kaynakların etkin kullanımını sağlar ve sonuca odaklanır. Kararları belirlemek ve gereken adımları atmak için stratejik bir yaklaşım benimsenir."
+    },
+    {
+        "term": "stratejik",
+        "desc": "Stratejik, bir planlama sürecinde belirlenen hedeflere ulaşmak için kullanılan yöntemleri ifade eder. Stratejik düşünce, geleceği öngörmek, kaynakları etkili bir şekilde kullanmak ve rekabet avantajını sürdürmek amacıyla stratejik kararlar almayı içerir. Stratejik yaklaşım, uzun vadeli başarıyı hedefleyen bir strateji oluşturmaya odaklanır."
+    },
+    {
+        "term": "süreksizlik",
+        "desc": "Süreksizlik, bir şeyin sürekli ve sabit olmayışını ifade eder. Değişim ve dönüşümün doğal bir parçasıdır. İnsan hayatının karmaşıklığını ve belirsizliğini yansıtır."
+    },
+    {
+        "term": "sürrealizm",
+        "desc": "Sürrealizm, gerçeküstü sanat ve edebiyat akımıdır. Sürrealistler, bilinçaltını ve rasyonel olmayan düşünceleri eserlerinde kullanmayı amaçlar. Sürrealizm, gerçeklikten koparak hayal gücünün ve daha derin anlamların peşinden gitmeyi savunur."
+    },
+    {
+        "term": "sürrealizm",
+        "desc": "Sürrealizm, sanat akımı olarak bilinen, rasyonaliteden uzaklaşıp bilinçdışını keşfetmeyi amaçlayan bir harekettir. Gerçeküstü düşünce ve deneysel tekniklerle sanat eserlerinde gerçeklik dışı ve hayal gücüne dayalı unsurlar kullanılır. Sürrealizm, rüya algısı, otomatik yazı ve soyutlama gibi yöntemlerle insan psikolojisini araştırır."
+    },
+    {
+        "term": "şüphe",
+        "desc": "Şüphe, belli bir konu veya düşünce hakkında belirsizlik, kararsızlık ve tereddüt duygusu yaratır. Bilginin sorgulanması ve doğruluğun araştırılması sürecinde önemli bir rol oynar. İnsanları fikirleri ve inançları üzerinde düşünmeye yönlendirerek etkili bir eleştirel düşünce sürecine katkı sağlar."
+    },
+    {
+        "term": "tarihsellik",
+        "desc": "Tarihsellik, olayların ve kavramların zaman içinde değişebilme özelliğini ifade eder. Herhangi bir fikir veya olgu, tarihsellik kavramıyla birlikte ele alındığında, onun tarihsel gelişimi ve sürekliliği göz önünde bulundurulur. Tarihsellik, insanlık tarihindeki değişimleri anlamamızı ve yorumlamamızı sağlayan önemli bir kavramdır."
+    },
+    {
+        "term": "tarihselcilik",
+        "desc": "Tarihselcilik, herhangi bir olayı veya durumu anlamak için tarihî ve kültürel bağlamların dikkate alınması gerektiğini savunan bir felsefi yaklaşımdır. Tarihselcilik, insanların tarih, dil ve kültür gibi unsurların etkisiyle şekillendiğini anlamaya çalışır ve evrenselleşmiş kavramlardan ziyade tarihsel ve kültürel özgüllüklere önem verir."
+    },
+    {
+        "term": "tekçilik",
+        "desc": "Tekçilik, ontolojik veya epistemolojik olarak dünyanın veya varlığın temelde tek bir ilkeye, varlığa veya gerçeğe dayandığını savunan bir felsefi görüştür. Tek olana inanmayı, birincil ve en yüksek gerçeği kavramayı ve bu gerçekliği diğerlerinden ayırmayı amaçlar."
+    },
+    {
+        "term": "teleoloji",
+        "desc": "Teleoloji, doğada ve insan düşüncesinde amaç veya nihai sonuçlara odaklanan bir felsefi yaklaşımdır. Teleologlar, evrende görülen düzenin gerisinde bir tasarım veya amaç olduğunu savunurlar. Bu anlamda, teleoloji doğa olaylarının veya insan davranışlarının amaca hizmet ettiğini öne sürer."
+    },
+    {
+        "term": "teoloji",
+        "desc": "Teoloji, Tanrı'nın varlığını ve doğasını inceleyen, dini inançları sistematik olarak ele alan bir felsefe dalıdır. İlahi varlıkla ilgili sorulara yanıt arar ve dini doktrinleri analiz eder. Teoloji, dinin felsefi ve akademik analizini yaparak insanların inançlarını anlamamıza ve açıklamamıza yardımcı olur."
+    },
+    {
+        "term": "teori",
+        "desc": "Bir teori, doğal olayları veya sosyal olguları açıklamak, tahmin yapmak veya anlamak için kullanılan bir açıklama ve mantık sistemi olarak tanımlanabilir. Teoriler, deneysel verilere dayanarak oluşturulur ve doğruluklarını test etmek için objektif yöntemlere ihtiyaç duyarlar. Teoriler, bilimsel çalışmaların temelini oluşturur."
+    },
+    {
+        "term": "toplum felsefesi",
+        "desc": "Toplum felsefesi, toplumsal yapı, ilişkiler ve işleyişin incelenmesini sağlayan bir disiplindir. Bu felsefe alanı, toplumun oluşumu, değişimi ve işleyişi gibi konuları ele alır. Toplum felsefesi, insanların birlikte yaşama biçimlerini anlamaya ve toplumsal sorunlara çözüm bulmaya yönelik felsefi bir yaklaşımdır."
+    },
+    {
+        "term": "toplumsalcılık",
+        "desc": "Toplumsalcılık, bireyin toplumla olan ilişkisini ve toplumun önemini vurgulayan bir felsefi yaklaşımdır. Bireyin sosyal ilişkiler, dayanışma ve yardımlaşma üzerinden toplumun gelişimine katkı sağlaması temel amaçtır. Toplumun ön plana çıktığı bir düzenin sürdürülebilirliği ve insanın toplumun bir parçası olarak değerlendirilmesi toplumsalcılığın temel prensiplerindendir."
+    },
+    {
+        "term": "totalite",
+        "desc": "Totalite, bir bütün olarak her şeyi içeren veya kapsayan bir durumu ifade eder. Her bir parçanın birlikte çalıştığı ve birbiriyle etkileşim halinde olduğu bir sistem olarak da tanımlanabilir. Totalite felsefesine göre, her şey birbiriyle ilişkilidir ve her bir parçanın bu ilişkiye katkısı vardır."
+    },
+    {
+        "term": "transandantal",
+        "desc": "Transandantal, Immanuel Kant'ın felsefi sistemine özgü bir kavramdır. Kanta göre, transandantal, kendinden bağımsız gerçeklikten önceki önkoşulları ve önceleyen koşulları ifade eder. Transandantal düşünceler, insanın deneyime dayanan bilgisini temellendirir ve a priori kategorilere dayanır."
+    },
+    {
+        "term": "transandantal felsefe",
+        "desc": "Transandantal felsefe, Immanuel Kant'ın ortaya koyduğu bir felsefe akımıdır. Bu akıma göre, bilginin temeli akıl ve deney arasındaki ilişkidir. Kant'a göre, bilginin sınırlarını ve koşullarını belirleyen şey, akıl tarafından yapılan düşünsel işlemlerdir. Onun felsefesinde a priori kavramlar ve önceden kabul edilen varsayımlar da önemli bir yer tutar."
+    },
+    {
+        "term": "translasyon",
+        "desc": "Translasyon, bir nesnenin düzlemsel bir hareketle bir konumdan başka bir konuma taşınması işlemidir. Bir noktanın sabit bir vektörle hareket ettirilerek yeni bir noktaya yerleştirilmesiyle gerçekleşir. Translasyon, nesnenin şeklini, boyutunu veya oryantasyonunu değiştirmez, sadece konumunu değiştirir."
+    },
+    {
+        "term": "transsendans",
+        "desc": "Transsendans, fiziksel dünyanın ötesinde yer alan gerçekliklerin ve varoluşun anlaşılması ve deneyimlenmesiyle ilgilenen bir felsefi kavramdır. Bu kavram, insanın sınırlı bilgi ve deneyimlerinden ötesine geçme arzusuyla ilgilidir. Transsendans, insanın varlıkla bağlantıya geçme ve evrenin derinliklerini keşfetme isteğiyle de ilişkilidir."
+    },
+    {
+        "term": "tümel",
+        "desc": "tümel, genel veya evrenseldir. Tek bir örnekleme dayanmaz, genellikle bir kategori, sınıf veya kavramı ifade eder. Özgün örneklerden soyutlanarak ortak özelliklerin genelleştirilmesini ifade eder."
+    },
+    {
+        "term": "umut",
+        "desc": "Umut, geleceğe dair olumlu beklentileri ifade eden bir duygudur. İnsanların zor zamanlarda motivasyon kaynağı olabilir ve umut sayesinde engellerin üstesinden gelmek mümkün olabilir. İnsanların hayallerini gerçekleştirmeleri için gereken bir güçtür."
+    },
+    {
+        "term": "üretim",
+        "desc": "Üretim, bir şeyi yaratma veya mevcut malzemeleri bir araya getirerek yeni bir şey oluşturma sürecidir. Ekonomi açısından, üretim mal ve hizmetlerin tüketim için üretilmesini ifade eder. Üretim, kaynakların etkin ve verimli kullanılmasını sağlayarak toplumsal ve ekonomik kalkınmanın temelini oluşturur."
+    },
+    {
+        "term": "uzlaşma",
+        "desc": "Uzlaşma, farklı düşünce ve tutumları barışçıl bir şekilde birleştirme veya ortak bir noktada buluşma sürecidir. İnsanlar arasında çıkan anlaşmazlıkları çözmek ve ortak bir çözüm bulmak için kullanılan bir yöntemdir. Uzlaşma, toplumsal uyumun sağlanması ve barışın korunması için önemli bir rol oynar."
+    },
+    {
+        "term": "uyum",
+        "desc": "Uyum, bir bütünün parçaları arasında düzen ve denge sağlamak için uygun bir şekilde bir araya gelmesidir. Farklı unsurların birlikte çalışarak bir amaca hizmet etmesini ifade eder. Uyum, uyumlu bir şekilde hareket etmek, uyumlu düşünmek veya uyum içerisinde yaşamak gibi çeşitli anlamlara gelebilir."
+    },
+    {
+        "term": "vahdet",
+        "desc": "Vahdet, birliği ifade eden bir felsefe terimidir. Var olan her şeyin aslında aynı kaynaktan geldiğini ve birbiriyle bağlantılı olduğunu ifade eder. Vahdet anlayışına göre her şey birbirine bağlıdır ve her parça, bütünün bir parçasıdır. Bu anlayış, birlik ve uyumun önemini vurgular."
+    },
+    {
+        "term": "varlık bilim",
+        "desc": "Varlık bilim, var olan her şeyi inceleyen ve açıklayan bir felsefe dalıdır. Ontoloji olarak da bilinen bu alan, varlıkların doğasını, özelliklerini ve ilişkilerini araştırır. Varlık bilimi, evrenin temel yapı taşlarını ve bunların nasıl etkileşimde olduğunu anlamak için bir çerçeve sunar."
+    },
+    {
+        "term": "yaşam felsefesi",
+        "desc": "Yaşam felsefesi, bireyin hayatına anlam katma, değerlerini belirleme ve nasıl bir yaşam sürdürmek istediğini düşünme sürecidir. Kişinin amacını ve önceliklerini belirleyerek yaşamına yön verir ve kendini tanıma, anlama ve geliştirmenin bir yoludur."
+    },
+    {
+        "term": "zihinsellik",
+        "desc": "Zihinsellik, bireyin düşünme, algılama, anlama ve kavrama yeteneğini ifade eden bir terimdir. Zihinsel süreçlerin, bireyin zihin içindeki düşünceleri, duyguları, inançları ve öğrenme süreçlerini etkilediği varsayılır. Zihinsellik, insanların bilgiyi işleme ve düşüncelerini şekillendirme sürecini anlamak için önemli bir kavramdır."
+    },
+    {
+        "term": "zorunluluk",
+        "desc": "Zorunluluk, bir şeyi yapmayı veya bir durumu kabul etmeyi gerektiren, kaçınılmaz veya mecburi olan bir durumu ifade eder. Zorunluluk, dış etkenler veya iç dürtüler tarafından yönlendirilebilir ve kişinin iradesi veya isteği dışında gerçekleşebilir. Zorunluluk, bazen ahlaki sorumluluk veya toplumsal beklentilerle ilişkilendirilebilir."
+    },
+    {
+        "term": "zorunluzarlık",
+        "desc": "Zorunluzarlık, insanın yaşamında her şeyin belirlenmiş bir şekilde gerçekleşeceği ve her olayın önceden belirlenmiş bir nedeni olduğu düşüncesini ifade eder. Bu felsefi kavram, determinizm anlayışını temsil eder ve evrenin deterministik bir şekilde işlediğini savunur. Zorunluzarlık fikri insanın özgür iradesini sorgulayan bir bakış açısı sunar."
+    },
+    {
+        "term": "çağdaş",
+        "desc": "Çağdaş: Bir konuya veya düşünceye uygun olan, güncel olan veya günümüzde geçerli olan anlamına gelir. Felsefede ise çağdaş terimi, günümüz felsefesinin düşüncelerini ifade eder ve modern dünyanın sorunlarına odaklanarak yeni ve yenilikçi felsefi yaklaşımları temsil eder."
+    },
+    {
+        "term": "çağrışım",
+        "desc": "Çağrışım, bir kelimenin veya bir fikrin zihinde başka bir kelime, fikir veya duyguyla ilişkilendirilmesidir. Önceki deneyimlerimiz ve öğrenme sürecimiz, bir kelimenin veya fikrin yanında başka bir düşünce, duygu veya imgeleri çağrıştırmasına neden olabilir. Çağrışım, dilin ve düşüncenin derinlikli ve çoklu anlamlarını ifade etmemize yardımcı olur."
+    },
+    {
+        "term": "ilksel",
+        "desc": "İlksel, gelişimin en başlangıç noktası anlamına gelir. Başlangıçta var olan, temel ve özgün olan şeyleri ifade eder. İlkel, primitif veya esas anlamında da kullanılabilir. İlksel kavramı, felsefede genellikle evrenin veya bilginin köküne, temeline veya ilk kaynağına işaret eder."
+    },
+    {
+        "term": "ilkesel",
+        "desc": "İlkesel, bir eylem veya düşünceye temel olan prensiplerle ilgili olan anlamına gelir. Tümörün özgünlük ve evrim süreçlerinin bilinmesi ilkesel bir öneme sahiptir. İlkesel olarak, adalet ve eşitlik her bireyin haklarıdır ve korunmalıdır."
+    },
+    {
+        "term": "evrenbilim",
+        "desc": "Evrenbilim, evrenin yapısal ve işleyişsel yönlerini araştıran bilim dalıdır. Evrenin oluşumu, büyüklüğü, bileşimi ve evrimi gibi konuları inceler. Evrenbilim, gözlem ve deneylerle evrenin doğasını anlamak ve evrende var olan olayları açıklamak için kullanılan disiplinler arasında yer alır."
+    },
+    {
+        "term": "evrensellik",
+        "desc": "Evrensellik, bir düşünce veya değerin tüm insanlar ve kültürler üzerinde geçerli olması anlamına gelir. Evrensellik, insanların ortak değerleri ve doğru kabul ettikleri ilkelerin, sınırlar ve sınıflandırmalarla bağımsız olarak tüm insanlık için geçerli olduğunu ifade eder. Evrensel değerler, insan hakları, adalet, eşitlik gibi temel prensipleri içerir."
+    },
+    {
+        "term": "evrenselcilik",
+        "desc": "Evrenselcilik, felsefi bir kavramdır ve tüm insanları ya da tüm insanlık türünü kapsayan bir evrensel doğruluk veya değer sistemini ifade eder. Evrenselcilik, farklı kültürler ve toplumlar arasındaki farklılıkları aşarak ortak bir insanlık bilincine vurgu yapar. Bu perspektif, insan hakları, adalet, eşitlik gibi evrensel değerleri vurgular."
+    },
+    {
+        "term": "Sokrat",
+        "desc": "Sokrat, antik Yunan filozofu olarak bilinir. Bilgeliğin sorgulanması ve insan erdemlerinin araştırılması konularında etkili olmuştur. Socratic yöntem olarak bilinen soru-cevap yöntemini kullanarak insanları düşünmeye teşvik etmiştir."
+    },
+    {
+        "term": "Platon",
+        "desc": "Platon, antik Yunan filozofu ve düşünürüdür. Aristoteles'in öğretmeni olan Platon, felsefede idealizm ve gerçeklik kavramlarının önemini vurgulayan bir anlayış benimsemiştir. Felsefi metinlerinin çoğunda devlet yönetimi, adalet, ahlak ve bilgi arayışı gibi konuları ele almıştır."
+    },
+    {
+        "term": "Aristoteles",
+        "desc": "Aristoteles, antik Yunan filozofu olan ve birçok konuda derin düşüncelere sahip olan bir düşünürdür. Mantık, felsefe, etik, politika ve doğa felsefesi gibi alanlarda birçok önemli görüşü ve teorisi bulunmaktadır."
+    },
+    {
+        "term": "Epikuros",
+        "desc": "Epikuros, Antik Yunan filozoftur ve hedonizm akımının kurucusudur. Mutluluğun en yüksek değer olduğunu savunur ve bunun için bedensel hazlara odaklanmayı önerir. Aynı zamanda dostluk, özgürlük ve huzur gibi değerleri de önemser."
+    },
+    {
+        "term": "Thomas Hobbes",
+        "desc": "Thomas Hobbes, sosyal sözleşme teorisiyle tanınan bir İngiliz filozoftur. İnsanların doğal olarak rekabetçi ve savaşçı olduğunu savunarak, mutlak bir hükümetin gerekliliğine inanır. Ona göre, anarşiden kaçmak için bireylerin güçlü bir merkezi otorite tarafından kontrol edilmesi şarttır."
+    },
+    {
+        "term": "John Locke",
+        "desc": "John Locke, İngiliz filozofu olarak bilinir. En önemli eseri olan İnsan Anlığı Üzerine Denemede insan zihninin doğuştan boş bir levha olduğunu ve deneyimlerle şekillendiğini savunur. Ayrıca, bireylerin doğal haklarına ve hükümetin bu hakları koruma görevine vurgu yapar."
+    },
+    {
+        "term": "David Hume",
+        "desc": "David Hume, İskoç Aydınlanma çağı filozofudur. Empirizm ve skeptisizm üzerine çalışmalar yapmış, insan bilgisini duyusal deneyimlere dayandıran bir felsefi yaklaşım benimsemiştir. Ayrıca neden-sonuç ilişkisi ve ahlaki değerlendirme konularında da önemli çalışmalara imza atmıştır."
+    },
+    {
+        "term": "İmmanuel Kant",
+        "desc": "Kant, Almanyalı bir filozoftur. Bilgi ve ahlaki değerler üzerine önemli çalışmalar yapmıştır. Aklın önceliğine inanmış ve düşüncelerini Aydınlanma hareketine katkı olarak sunmuştur."
+    },
+    {
+        "term": "Friedrich Nietzsche",
+        "desc": "Friedrich Nietzsche, Alman filozoftur. İkiliği, güç ve ahlaki değerleri sorgulayan felsefi düşünceleriyle tanınır. Tanrı'nın ölümü fikri ve zıtlıkların uzlaşması fikrine odaklanan olumsuz ahlak felsefesi önemli çalışmalarıdır."
+    }
+]
